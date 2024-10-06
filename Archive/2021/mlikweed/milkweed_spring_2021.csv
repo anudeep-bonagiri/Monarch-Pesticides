@@ -1,0 +1,802 @@
+Date,State,Town,Longitude,Latitude,Sighting
+07/31/21,ON,Toronto,-79.4,43.7,1
+07/31/21,PA,Edinboro,-80.1,41.9,1
+07/31/21,PA,Edinboro,-80.1,41.9,1
+07/31/21,PA,Edinboro,-80.1,41.9,1
+07/31/21,PA,Edinboro,-80.2,41.9,1
+07/31/21,PA,Edinboro,-80.2,41.9,1
+07/31/21,MD,Columbia,-76.9,39.2,1
+07/31/21,TX,La Porte,-95.1,29.7,1
+07/31/21,NH,Exeter,-70.9,43,1
+07/31/21,OK,Tulsa,-96,36.2,1
+07/31/21,PA,Eau Claire,-79.8,41.1,1
+07/31/21,ON,Toronto,-79.5,43.6,1
+07/31/21,UT,Salt Lake City,-111.9,40.8,1
+07/31/21,MI,Wyoming,-85.7,42.9,1
+07/31/21,CT,Pawcatuck,-71.9,41.4,1
+07/31/21,NM,Las Vegas,-105.2,35.4,1
+07/31/21,MO,Springfield,-93.3,37.2,1
+07/31/21,MO,Springfield,-93.3,37.2,1
+07/31/21,MO,Springfield,-93.3,37.2,1
+07/31/21,MO,Springfield,-93.3,37.2,1
+07/30/21,MA,Millis,-71.4,42.2,1
+07/30/21,WI,Milwaukee,-88,43.1,1
+07/30/21,CT,East Haven,-72.9,41.3,1
+07/30/21,VA,Cape Charles,-76,37.3,1
+07/30/21,ON,Whitby,-79,43.9,1
+07/30/21,FL,,-80,26.8,1
+07/30/21,ON,Quinte West,-77.6,44.2,1
+07/30/21,CA,Loomis,-121.2,38.8,1
+07/30/21,MN,Pine City,-93,45.8,1
+07/30/21,NY,Syracuse,-76.2,43,1
+07/30/21,CT,Milford,-73.1,41.2,1
+07/30/21,ON,Oro-Medonte,-79.7,44.5,1
+07/30/21,ON,Toronto,-79.3,43.7,1
+07/30/21,MB,Grey,-98.4,49.8,1
+07/30/21,ON,North Glengarry,-74.9,45.3,1
+07/30/21,MN,Lake Park,-96.1,46.7,1
+07/30/21,WI,Eau Claire,-91.5,44.8,1
+07/30/21,TX,Midland,-102,32,1
+07/30/21,TX,Midland,-102,32,1
+07/30/21,TX,Midland,-102,32,1
+07/30/21,WI,Town of Spring Prairie,-88.3,42.7,1
+07/30/21,OH,Xenia,-83.8,39.7,1
+07/30/21,NY,North Java,-78.4,42.7,1
+07/30/21,WI,Westfield,-89.5,43.9,1
+07/30/21,ON,St Catharines,-79.3,43.1,1
+07/30/21,NH,Laconia,-71.5,43.5,1
+07/30/21,NY,Schenectady,-73.9,42.8,1
+07/30/21,MO,Springfield,-93.3,37.2,1
+07/29/21,NY,Blossvale,-75.6,43.3,1
+07/29/21,CT,Torrington,-73.1,41.8,1
+07/29/21,CT,Torrington,-73.1,41.8,1
+07/29/21,VA,Oakton,-77.3,38.9,1
+07/29/21,IL,Chicago,-87.7,41.9,1
+07/29/21,CT,Tolland,-72.4,41.9,1
+07/29/21,OH,Antwerp,-84.7,41.2,1
+07/29/21,MN,Minneapolis,-93.3,44.9,1
+07/29/21,WV,Shinnston,-80.3,39.4,1
+07/29/21,NY,Ellenville,-74.4,41.7,1
+07/29/21,GA,Kingsland,-81.6,30.8,1
+07/29/21,WI,Sheboygan,-87.7,43.8,1
+07/29/21,FL,Tallahassee,-84.2,30.6,1
+07/29/21,NS,Queens,-64.7,44,1
+07/29/21,WI,Madison,-89.4,43,1
+07/29/21,MI,Edwardsburg,-86.1,41.8,1
+07/29/21,MD,Solomons,-76.5,38.3,1
+07/29/21,ON,Mississauga,-79.6,43.5,1
+07/29/21,MI,Port Huron,-82.4,43,1
+07/29/21,PA,Fairfield,-77.4,39.8,1
+07/29/21,OH,Versailles,-84.5,40.2,1
+07/29/21,MN,Minnetonka,-93.5,44.9,1
+07/29/21,OK,Edmond,-97.5,35.7,1
+07/29/21,IL,Willowbrook,-87.9,41.8,1
+07/29/21,NY,Springville,-78.7,42.5,1
+07/29/21,IL,Waggoner,-89.7,39.3,1
+07/29/21,ON,Parry Sound,-80,45.3,1
+07/29/21,MO,Springfield,-93.3,37.2,1
+07/28/21,PA,Sugarloaf Twp,-76.3,41.3,1
+07/28/21,SC,Bluffton,-80.9,32.2,1
+07/28/21,QC,Waterloo,-72.5,45.3,1
+07/28/21,MA,Wakefield,-71,42.5,1
+07/28/21,PA,Lansdale,-75.3,40.2,1
+07/28/21,TX,Spring,-95.4,30.1,1
+07/28/21,OH,Athens,-82.1,39.4,1
+07/28/21,OH,Athens,-82.2,39.4,1
+07/28/21,SD,Ellsworth Afb,-103.1,44.2,1
+07/28/21,ON,Burlington,-79.8,43.3,1
+07/28/21,KY,Morehead,-83.3,38.1,1
+07/28/21,MO,Saint Louis,-90.3,38.7,1
+07/28/21,NE,,-97.7,42.8,1
+07/28/21,ON,Guelph/Eramosa,-80.1,43.6,1
+07/28/21,WI,Cottage Grove,-89.2,43.1,1
+07/28/21,WI,Cottage Grove,-89.2,43.1,1
+07/28/21,MI,Manistee,-86.4,44.2,1
+07/28/21,NJ,Washington Twp,-75.1,39.8,1
+07/28/21,TN,Jonesborough,-82.6,36.3,1
+07/28/21,WI,Portage,-89.5,43.5,1
+07/28/21,MO,Saint Louis,-90.2,38.6,1
+07/28/21,TX,Midland,-102,32,1
+07/28/21,VA,Buchanan,-79.8,37.6,1
+07/28/21,QC,Gore,-74.2,45.8,1
+07/28/21,OH,Avon Lake,-82,41.5,1
+07/28/21,PA,West Chester,-75.6,40,1
+07/28/21,IL,Grayslake,-88,42.4,1
+07/28/21,ON,Puslinch,-80.1,43.4,1
+07/28/21,WI,Town of Cicero,-88.4,44.5,1
+07/28/21,PA,Slippery Rock,-80,41,1
+07/28/21,MI,Plymouth,-83.6,42.4,1
+07/28/21,MD,Lusby,-76.4,38.4,1
+07/28/21,ON,Calvin,-78.9,46.3,1
+07/28/21,FL,Fort Walton Beach,-86.6,30.4,1
+07/28/21,TX,Menard,-99.7,30.6,1
+07/28/21,TX,Menard,-99.7,30.6,1
+07/28/21,NS,Annapolis,-65.5,44.7,1
+07/28/21,MO,Willard,-93.4,37.3,1
+07/28/21,MO,Willard,-93.4,37.3,1
+07/27/21,WI,Burlington,-88.3,42.7,1
+07/27/21,PA,Blue Bell,-75.3,40.2,1
+07/27/21,WI,Green Bay,-88,44.5,1
+07/27/21,WI,Green Bay,-88,44.5,1
+07/27/21,ON,Ottawa,-75.7,45.4,1
+07/27/21,NH,Gilford,-71.4,43.5,1
+07/27/21,VA,Virginia Beach,-76.2,36.8,1
+07/27/21,PA,East Mc Keesport,-79.8,40.4,1
+07/27/21,PA,Fairfield,-77.4,39.8,1
+07/27/21,VA,Castleton,-78.1,38.7,1
+07/27/21,SC,Bluffton,-80.9,32.2,1
+07/27/21,SD,Canton,-96.6,43.3,1
+07/27/21,IL,Chicago,-87.7,42,1
+07/27/21,ON,Markham,-79.4,43.8,1
+07/27/21,MB,Winnipeg,-97.1,49.9,1
+07/27/21,NS,Digby Municipal District,-66,44.6,1
+07/27/21,NS,Annapolis,-65.7,44.6,1
+07/27/21,MD,Lusby,-76.4,38.4,1
+07/27/21,CT,Niantic,-72.2,41.3,1
+07/27/21,OK,Tulsa,-96.1,36,1
+07/27/21,FL,Destin,-86.5,30.4,1
+07/27/21,MO,Springfield,-93.3,37.2,1
+07/26/21,MA,Hadley,-72.5,42.4,1
+07/26/21,WI,Ogdensburg,-89,44.6,1
+07/26/21,PA,Lake City,-80.3,42,1
+07/26/21,NH,Barrington,-71.1,43.2,1
+07/26/21,ON,Kawartha Lakes,-78.8,44.6,1
+07/26/21,WI,Town of Spring Prairie,-88.3,42.7,1
+07/26/21,TX,Leander,-97.9,30.6,1
+07/26/21,ON,Clearview,-80.2,44.3,1
+07/26/21,ON,Clearview,-80.2,44.3,1
+07/26/21,NY,Sackets Harbor,-76.1,43.9,1
+07/26/21,MB,Winnipeg,-97.2,49.9,1
+07/26/21,MB,Winnipeg,-97.2,49.9,1
+07/26/21,MB,Winnipeg,-97.2,49.9,1
+07/26/21,SC,Charleston,-80,32.8,1
+07/26/21,ON,Springwater,-79.8,44.5,1
+07/26/21,ON,Hamilton,-80,43.3,1
+07/26/21,IN,Terre Haute,-87.4,39.5,1
+07/26/21,OK,Hinton,-98.3,35.4,1
+07/26/21,MA,Chatham,-70,41.7,1
+07/26/21,LA,Lacombe,-89.9,30.3,1
+07/26/21,CA,Union City,-122,37.6,1
+07/26/21,MD,Columbia,-76.9,39.2,1
+07/26/21,MI,Pigeon,-83.2,43.9,1
+07/26/21,VA,Irvington,-76.4,37.7,1
+07/26/21,TX,Richardson,-96.7,32.9,1
+07/26/21,WI,Village of Weston,-89.5,44.9,1
+07/26/21,WV,Parkersburg,-81.6,39.3,1
+07/26/21,VA,Reston,-77.4,39,1
+07/26/21,IA,Windsor Heights,-93.7,41.6,1
+07/26/21,CT,Mystic,-72,41.3,1
+07/26/21,CT,Mystic,-72,41.3,1
+07/26/21,NE,Omaha,-96.1,41.3,1
+07/26/21,NH,Hooksett,-71.4,43,1
+07/26/21,IL,Pekin,-89.6,40.6,1
+07/26/21,OH,Wooster,-81.9,40.8,1
+07/26/21,PA,Pocono Pines,-75.5,41.1,1
+07/26/21,OH,Avon Lake,-82,41.5,1
+07/26/21,MO,Springfield,-93.3,37.2,1
+07/26/21,MO,Springfield,-93.3,37.2,1
+07/25/21,MI,South Haven,-86.2,42.5,1
+07/25/21,MO,Farmington,-90.4,37.7,1
+07/25/21,VA,Mechanicsville,-77.2,37.6,1
+07/25/21,VA,Mechanicsville,-77.2,37.6,1
+07/25/21,NS,Bridgewater,-64.5,44.3,1
+07/25/21,IL,Itasca,-88,42,1
+07/25/21,NC,Mocksville,-80.5,35.9,1
+07/25/21,WI,Milwaukee,-88,43.2,1
+07/25/21,OK,Oklahoma City,-97.6,35.5,1
+07/25/21,OK,Haskell,-95.7,35.8,1
+07/25/21,MD,Ellicott City,-76.8,39.3,1
+07/25/21,IL,Crest Hill,-88.1,41.6,1
+07/25/21,MI,Fenton,-83.7,42.8,1
+07/25/21,MN,Maple Grove,-93.5,45.1,1
+07/25/21,ON,Hamilton,-79.9,43.3,1
+07/25/21,VA,Castleton,-78.1,38.7,1
+07/25/21,VA,Castleton,-78.1,38.7,1
+07/25/21,ON,Algoma,-84.4,46.8,1
+07/25/21,NS,Halifax,-63.5,44.6,1
+07/25/21,TX,Spring,-95.4,30.1,1
+07/25/21,SK,Rhein,-102.2,51.4,1
+07/25/21,MD,Bowie,-76.7,39,1
+07/25/21,OK,Piedmont,-97.7,35.7,1
+07/25/21,OK,Piedmont,-97.7,35.7,1
+07/25/21,IL,Chicago,-87.6,41.8,1
+07/25/21,VA,Reston,-77.4,39,1
+07/25/21,NS,Annapolis,-65.6,44.6,1
+07/25/21,NS,Annapolis,-65.6,44.6,1
+07/25/21,NS,Annapolis,-65.4,44.7,1
+07/25/21,IL,Lynn Center,-90.3,41.2,1
+07/25/21,WI,Baileys Harbor,-87.1,45.1,1
+07/25/21,NY,Town of Java,-78.4,42.6,1
+07/25/21,VT,Saxtons River,-72.5,43.1,1
+07/25/21,VT,Saxtons River,-72.5,43.1,1
+07/25/21,AR,Roland,-92.5,34.8,1
+07/25/21,AR,Roland,-92.5,34.8,1
+07/25/21,AR,Roland,-92.5,34.8,1
+07/25/21,MN,Waconia,-93.7,44.8,1
+07/25/21,MN,Chaska,-93.7,44.8,1
+07/25/21,NC,Manteo,-75.7,35.9,1
+07/25/21,MO,Springfield,-93.3,37.2,1
+07/25/21,MO,Ozark,-93.2,37.1,1
+07/25/21,MO,Springfield,-93.2,37.3,1
+07/25/21,WI,Baileys Harbor,-87.1,45.1,1
+07/25/21,WI,Baileys Harbor,-87.1,45.1,1
+07/25/21,AR,Roland,-92.5,34.8,1
+07/24/21,PA,Center Valley,-75.4,40.5,1
+07/24/21,MI,Grand Ledge,-84.8,42.8,1
+07/24/21,MI,Grand Ledge,-84.7,42.8,1
+07/24/21,MI,Lansing,-84.7,42.8,1
+07/24/21,MI,Watertown Twp,-84.7,42.8,1
+07/24/21,IN,Connersville,-85.1,39.6,1
+07/24/21,IL,Homewood,-87.6,41.5,1
+07/24/21,CT,Tolland,-72.3,41.9,1
+07/24/21,IN,Terre Haute,-87.4,39.4,1
+07/24/21,PA,Philadelphia,-75,40.1,1
+07/24/21,CT,Durham,-72.7,41.5,1
+07/24/21,CT,Wallingford,-72.8,41.5,1
+07/24/21,MA,Chilmark,-70.8,41.3,1
+07/24/21,IN,South Bend,-86.3,41.7,1
+07/24/21,MA,Lawrence,-71.2,42.7,1
+07/24/21,CT,New Britain,-72.8,41.7,1
+07/24/21,IL,Evergreen Park,-87.7,41.7,1
+07/24/21,ON,Hamilton,-80,43.2,1
+07/24/21,IL,Des Plaines,-87.9,42,1
+07/24/21,WI,Mcfarland,-89.3,43,1
+07/24/21,MD,Windsor Mill,-76.7,39.3,1
+07/24/21,TN,Alcoa,-84,35.8,1
+07/24/21,DC,Washington,-77,38.9,1
+07/24/21,IN,Munster,-87.5,41.6,1
+07/24/21,PA,Pittsburgh,-80,40.4,1
+07/24/21,MN,Thief River Falls,-96.4,48.1,1
+07/24/21,NS,Queens,-64.7,44,1
+07/24/21,CT,Stonington,-71.9,41.3,1
+07/24/21,PA,Manheim,-76.4,40.2,1
+07/24/21,MN,Pierz,-94.1,45.9,1
+07/24/21,MI,Rochester,-83.2,42.6,1
+07/24/21,WI,Madison,-89.5,43.1,1
+07/24/21,WI,Pewaukee,-88.2,43.1,1
+07/24/21,IL,Toluca,-89.1,40.9,1
+07/24/21,OK,Tulsa,-95.9,36,1
+07/24/21,MN,Rochester,-92.4,44,1
+07/24/21,OH,Burbank,-82,41,1
+07/24/21,NY,Lake George,-73.7,43.4,1
+07/24/21,WI,Grand Marsh,-89.6,43.9,1
+07/24/21,VA,Herndon,-77.4,38.9,1
+07/24/21,CT,Ansonia,-73.1,41.3,1
+07/24/21,NC,Mocksville,-80.6,35.9,1
+07/24/21,NC,Mocksville,-80.6,35.9,1
+07/24/21,PA,Abington,-75.1,40.1,1
+07/24/21,IL,Taylorville,-89.2,39.5,1
+07/24/21,PA,Center Valley,-75.4,40.5,1
+07/24/21,ON,Haldimand,-79.9,42.8,1
+07/24/21,ON,Haldimand,-79.9,42.8,1
+07/24/21,WI,Chilton,-88.3,44,1
+07/24/21,FL,Dunedin,-82.8,28,1
+07/24/21,IL,Hillsboro,-89.5,39.2,1
+07/24/21,MA,Raynham,-71.1,41.9,1
+07/24/21,MA,Raynham,-71.1,41.9,1
+07/24/21,MO,Sarcoxie,-94.1,37,1
+07/24/21,MO,Sarcoxie,-94.1,37,1
+07/24/21,MO,Sarcoxie,-94.2,37.1,1
+07/23/21,IN,Zionsville,-86.3,40,1
+07/23/21,ON,Sault Ste Marie,-84.3,46.5,1
+07/23/21,TX,Georgetown,-97.7,30.6,1
+07/23/21,TX,Georgetown,-97.7,30.7,1
+07/23/21,MI,Mayville,-83.3,43.4,1
+07/23/21,MO,Farmington,-90.4,37.7,1
+07/23/21,NJ,High Bridge,-74.9,40.7,1
+07/23/21,MN,Hackensack,-94.5,46.9,1
+07/23/21,MN,Duluth,-92.1,46.8,1
+07/23/21,VA,Newport News,-76.5,37.1,1
+07/23/21,KS,Lenexa,-94.7,39,1
+07/23/21,PA,Marcus Hook,-75.5,39.8,1
+07/23/21,MA,Concord,-71.4,42.5,1
+07/23/21,OH,Tiffin,-83.2,41.1,1
+07/23/21,ON,Pelham,-79.3,43,1
+07/23/21,NJ,Brick,-74.1,40.1,1
+07/23/21,AL,Robertsdale,-87.6,30.5,1
+07/23/21,MN,Elk River,-93.6,45.3,1
+07/23/21,MT,Missoula,-114,46.9,1
+07/23/21,ND,Jamestown,-98.6,46.9,1
+07/23/21,TX,Port Isabel,-97.3,26.1,1
+07/23/21,LA,Marrero,-90.1,29.9,1
+07/23/21,NJ,Monmouth Beach,-74,40.3,1
+07/23/21,TX,Ennis,-96.6,32.4,1
+07/23/21,MN,Silver Bay,-91.3,47.3,1
+07/23/21,AR,Ashdown,-94.1,33.7,1
+07/23/21,NJ,Perth Amboy,-74.3,40.5,1
+07/23/21,ON,Mississauga,-79.7,43.5,1
+07/23/21,KY,Murray,-88.3,36.6,1
+07/23/21,WI,Delafield,-88.4,43,1
+07/23/21,NY,Scottsville,-77.7,43,1
+07/23/21,NS,Queens,-64.7,44,1
+07/23/21,ON,Ajax,-79,43.9,1
+07/23/21,CA,Thousand Oaks,-118.9,34.2,1
+07/23/21,TX,Webster,-95.1,29.5,1
+07/23/21,NY,Greenwich,-73.4,43.2,1
+07/23/21,AR,Batesville,-91.7,35.7,1
+07/23/21,IA,Polk City,-93.7,41.8,1
+07/23/21,ON,Toronto,-79.4,43.7,1
+07/23/21,OK,Norman,-97.4,35.2,1
+07/23/21,TX,Cookville,-94.9,33.2,1
+07/23/21,TN,Chattanooga,-85.3,35.1,1
+07/23/21,MO,Saint Louis,-90.2,38.6,1
+07/23/21,TX,Austin,-97.8,30.5,1
+07/23/21,SD,Sioux Falls,-96.7,43.5,1
+07/23/21,MO,Plattsburg,-94.4,39.6,1
+07/23/21,MN,Rochester,-92.4,44,1
+07/23/21,WI,Madison,-89.5,43.1,1
+07/23/21,VA,Cape Charles,-76,37.3,1
+07/23/21,MO,Springfield,-93.2,37.2,1
+07/23/21,MO,Springfield,-93.2,37.2,1
+07/23/21,WI,Town of Richford,-89.5,44,1
+07/23/21,NY,Medford,-73,40.8,1
+07/23/21,CT,Wallingford,-72.8,41.5,1
+07/23/21,NY,Wynantskill,-73.6,42.7,1
+07/23/21,MI,Holland,-86.1,42.8,1
+07/23/21,SK,Rhein,-102.2,51.4,1
+07/23/21,MI,,-84.7,45.8,1
+07/23/21,PA,West Sunbury,-79.9,41,1
+07/23/21,MN,Minneapolis,-93.3,45.1,1
+07/23/21,MD,Forest Hill,-76.4,39.5,1
+07/23/21,RI,Coventry,-71.6,41.7,1
+07/23/21,MD,Bowie,-76.7,39,1
+07/23/21,IL,Chicago,-87.7,42,1
+07/23/21,IA,Davenport,-90.7,41.5,1
+07/23/21,AZ,Prescott,-112.4,34.6,1
+07/23/21,AZ,Prescott,-112.5,34.5,1
+07/23/21,AZ,Prescott Valley,-112.3,34.6,1
+07/22/21,MI,Grand Rapids,-85.7,42.9,1
+07/22/21,FL,Pensacola,-87.4,30.5,1
+07/22/21,NH,Laconia,-71.5,43.5,1
+07/22/21,IA,Ruthven,-95,43.1,1
+07/22/21,MA,Plymouth,-70.7,41.9,1
+07/22/21,AR,Hot Springs National Park,-93,34.5,1
+07/21/21,VA,Arlington,-77.1,38.9,1
+07/21/21,TX,Spicewood,-98.2,30.4,1
+07/21/21,WI,Town of Cedar Lake,-91.6,45.6,1
+07/21/21,WI,Fort Atkinson,-88.9,43,1
+07/20/21,PA,Reading,-76,40.4,1
+07/20/21,CA,Bishop,-118.4,37.5,1
+07/20/21,CA,Bishop,-118.4,37.4,1
+07/20/21,CA,Bishop,-118.5,37.4,1
+07/20/21,CA,Bishop,-118.3,37.4,1
+07/20/21,NM,Capitan,-105.5,33.5,1
+07/20/21,NM,Capitan,-105.5,33.5,1
+07/20/21,NM,Capitan,-105.5,33.5,1
+07/20/21,NM,Carrizozo,-105.7,33.6,1
+07/20/21,OK,Edmond,-97.5,35.7,1
+07/19/21,WI,Portage,-89.5,43.5,1
+07/19/21,MD,Berlin,-75.1,38.2,1
+07/19/21,CA,Pollock Pines,-120.4,38.8,1
+07/19/21,CA,Pollock Pines,-120.4,38.8,1
+07/19/21,MN,Farmington,-93.2,44.7,1
+07/19/21,CT,Town of Portland,-72.6,41.6,1
+07/18/21,MI,Mayville,-83.3,43.4,1
+07/18/21,IL,Wilmington,-88.1,41.3,1
+07/18/21,CA,Sonoma,-122.4,38.3,1
+07/18/21,IA,Haverhill,-93,41.9,1
+07/18/21,MI,Beaver Island,-85.6,45.6,1
+07/17/21,VA,Arlington,-77.1,38.9,1
+07/17/21,ON,Woodstock,-80.8,43.1,1
+07/17/21,OH,Medina,-81.8,41.2,1
+07/17/21,IN,Danville,-86.5,39.8,1
+07/17/21,WI,Westfield,-89.6,43.9,1
+07/17/21,NJ,Bloomfield,-74.2,40.8,1
+07/17/21,NJ,Bloomfield,-74.2,40.8,1
+07/17/21,NJ,Bloomfield,-74.2,40.8,1
+07/16/21,OH,Medina,-81.9,41.2,1
+07/16/21,ON,Brampton,-79.8,43.6,1
+07/16/21,NJ,Jersey City,-74,40.7,1
+07/15/21,NM,Tijeras,-106.2,34.9,1
+07/15/21,NM,Estancia,-106.3,34.8,1
+07/15/21,NM,Estancia,-106.3,34.8,1
+07/15/21,NM,Estancia,-106.4,34.8,1
+07/15/21,OH,Loveland,-84.3,39.3,1
+07/15/21,OH,New Albany,-82.8,40.1,1
+07/15/21,NJ,Ringoes,-74.8,40.4,1
+07/15/21,NJ,Warren Twp,-74.5,40.7,1
+07/15/21,NE,Fairfield,-98.1,40.4,1
+07/14/21,MI,Belmont,-85.5,43.1,1
+07/14/21,NJ,Ringoes,-74.9,40.4,1
+07/14/21,NE,Fairfield,-98.1,40.4,1
+07/13/21,MN,Saint Paul,-93.1,44.9,1
+07/13/21,OH,Medina,-81.8,41.1,1
+07/13/21,ON,Zorra,-80.8,43.1,1
+07/13/21,ON,Woodstock,-80.8,43.1,1
+07/13/21,ON,Ajax,-79,43.9,1
+07/12/21,MN,Mabel,-91.9,43.5,1
+07/12/21,NJ,Stockholm,-74.5,41.1,1
+07/12/21,OK,Hominy,-96.4,36.4,1
+07/12/21,IL,Cary,-88.3,42.2,1
+07/12/21,MI,Ann Arbor,-83.7,42.3,1
+07/12/21,NM,Las Cruces,-106.8,32.3,1
+07/11/21,PA,Bellefonte,-77.8,40.9,1
+07/11/21,NS,Queens,-64.7,44,1
+07/11/21,PA,Bellefonte,-77.8,40.9,1
+07/11/21,NM,Las Cruces,-106.8,32.3,1
+07/10/21,NH,Keene,-72.3,43,1
+07/10/21,ON,Brampton,-79.8,43.7,1
+07/10/21,IA,Ely,-91.6,41.9,1
+07/10/21,IA,Solon,-91.5,41.8,1
+07/10/21,IA,Solon,-91.5,41.8,1
+07/10/21,WI,Milwaukee,-88,43.1,1
+07/10/21,NH,Sanbornton,-71.6,43.5,1
+07/10/21,MI,Gladstone,-87.1,45.8,1
+07/09/21,NY,Windsor,-75.8,42.1,1
+07/09/21,IA,Solon,-91.5,41.8,1
+07/08/21,UT,Salt Lake City,-111.9,40.7,1
+07/08/21,MD,Adamstown,-77.4,39.3,1
+07/08/21,MN,South Saint Paul,-93,44.9,1
+07/07/21,NS,Clare,-66.1,44.2,1
+07/07/21,NH,Northwood,-71.2,43.2,1
+07/06/21,WI,Wausau,-89.6,45,1
+07/06/21,ON,Ottawa,-75.7,45.4,1
+07/05/21,IL,Naperville,-88.1,41.7,1
+07/05/21,CO,Parker,-104.7,39.5,1
+07/04/21,ND,Mohall,-101.5,48.8,1
+07/04/21,CO,Pueblo,-104.6,38.3,1
+07/04/21,MO,Saint Louis,-90.2,38.6,1
+07/03/21,ON,Greater Sudbury,-81.3,46.6,1
+07/03/21,WV,Hillsboro,-80.3,38.2,1
+07/03/21,WV,Hillsboro,-80.2,38.2,1
+07/03/21,WV,Marlinton,-80.1,38.3,1
+07/03/21,TX,Alpine,-103.7,30.4,1
+07/01/21,WI,Town of Hartford,-88.4,43.3,1
+07/01/21,MO,Kansas City,-94.5,39.2,1
+07/01/21,CA,Auberry,-119.5,37.1,1
+07/01/21,CA,Auberry,-119.5,37.1,1
+07/01/21,CA,Auberry,-119.5,37.1,1
+07/01/21,CA,Auberry,-119.5,37.1,1
+07/01/21,VT,Greensboro,-72.3,44.6,1
+07/01/21,MA,Saugus,-71,42.5,1
+07/01/21,IN,Fremont,-84.9,41.7,1
+06/30/21,MO,Pleasant Hill,-94.3,38.8,1
+06/30/21,WV,Hillsboro,-80.2,38.1,1
+06/30/21,ON,Caledon,-79.8,43.9,1
+06/28/21,WV,Marlinton,-80,38.3,1
+06/28/21,IL,Chicago,-87.6,41.9,1
+06/28/21,ON,Lake of Bays,-79,45.3,1
+06/27/21,IL,Rockford,-89.1,42.3,1
+06/26/21,GA,Richmond Hill,-81.2,31.9,1
+06/24/21,NS,Halifax,-63.5,44.6,1
+06/24/21,WI,Madison,-89.4,43.1,1
+06/24/21,ON,Leamington,-82.5,42,1
+06/24/21,TX,Spring,-95.4,30.1,1
+06/24/21,IL,Villa Park,-88,41.9,1
+06/24/21,IL,Villa Park,-88,41.9,1
+06/22/21,TX,Austin,-97.8,30.2,1
+06/22/21,NY,Nyack,-73.9,41.1,1
+06/22/21,OH,Medina,-81.8,41.1,1
+06/21/21,MN,Minneapolis,-93.3,44.9,1
+06/21/21,ID,Pocatello,-112.5,42.9,1
+06/21/21,MD,Annapolis,-76.4,39,1
+06/21/21,KS,Topeka,-95.6,39,1
+06/21/21,KS,Topeka,-95.6,39,1
+06/20/21,MA,Southwick,-72.8,42.1,1
+06/20/21,ID,Pocatello,-112.5,42.9,1
+06/20/21,NY,Hampton Bays,-72.5,40.9,1
+06/20/21,NY,Hampton Bays,-72.5,40.9,1
+06/19/21,CA,Mountain View,-122.1,37.4,1
+06/19/21,CO,Parker,-104.7,39.5,1
+06/18/21,MI,South Haven,-86.2,42.4,1
+06/17/21,ON,Parry Sound,-80,45.4,1
+06/16/21,IL,Normal,-89,40.5,1
+06/16/21,IL,Normal,-89,40.5,1
+06/16/21,MN,Mabel,-91.9,43.5,1
+06/16/21,SC,Travelers Rest,-82.5,35,1
+06/15/21,VA,Cape Charles,-76,37.3,1
+06/15/21,MN,Hallock,-96.9,48.8,1
+06/15/21,TX,San Antonio,-98.7,29.4,1
+06/14/21,PA,Downingtown,-75.7,40.1,1
+06/14/21,ME,Bristol,-69.5,44,1
+06/14/21,MI,Rose City,-84.2,44.5,1
+06/13/21,WI,Milwaukee,-88,43.1,1
+06/13/21,MN,Mabel,-91.9,43.5,1
+06/12/21,ON,Kitchener,-80.5,43.4,1
+06/12/21,ON,Kitchener,-80.5,43.5,1
+06/12/21,WI,Portage,-89.5,43.5,1
+06/12/21,ON,Ottawa,-75.7,45.4,1
+06/12/21,MD,Annapolis,-76.4,39,1
+06/11/21,WI,Cambridge,-89,43,1
+06/10/21,TX,Plainview,-101.7,34.2,1
+06/10/21,NE,North Platte,-100.8,41.1,1
+06/10/21,IN,Newburgh,-87.4,37.9,1
+06/10/21,MI,Ann Arbor,-83.7,42.2,1
+06/09/21,MN,Mabel,-91.9,43.5,1
+06/09/21,MI,Tecumseh,-83.9,42,1
+06/09/21,NH,Portsmouth,-70.8,43.1,1
+06/08/21,UT,American Fork,-111.8,40.4,1
+06/08/21,MD,Bishopville,-75.1,38.4,1
+06/08/21,MD,Bishopville,-75.1,38.4,1
+06/08/21,TX,Canyon,-101.8,34.9,1
+06/08/21,TX,Canyon,-101.8,34.9,1
+06/08/21,MI,Glennie,-83.6,44.6,1
+06/08/21,MI,Glennie,-83.6,44.6,1
+06/07/21,NY,Springville,-78.7,42.5,1
+06/07/21,MI,Millersburg,-84.2,45.6,1
+06/07/21,MD,Bowie,-76.7,39,1
+06/06/21,OH,Avon Lake,-82,41.5,1
+06/06/21,OK,Shawnee,-96.9,35.3,1
+06/06/21,OK,Shawnee,-96.9,35.3,1
+06/06/21,UT,Salt Lake City,-111.8,40.8,1
+06/05/21,SC,Fort Mill,-80.9,35.1,1
+06/05/21,IA,Cedar Falls,-92.4,42.6,1
+06/05/21,VA,Reston,-77.3,38.9,1
+06/05/21,AR,Ozark,-93.8,35.4,1
+06/05/21,MN,Minneapolis,-93.4,45,1
+06/04/21,MO,Monett,-93.9,36.9,1
+06/04/21,MO,Monett,-93.9,36.9,1
+06/04/21,MO,Monett,-93.9,36.9,1
+06/04/21,MO,Monett,-93.9,36.9,1
+06/03/21,PA,Newtown Square,-75.4,40,1
+06/03/21,CO,Parker,-104.7,39.5,1
+06/02/21,MO,Republic,-93.5,37.1,1
+06/02/21,IL,Des Plaines,-87.9,42,1
+06/02/21,PA,Corry,-79.6,41.9,1
+06/02/21,NY,Schenectady,-74,42.8,1
+06/02/21,NC,Raeford,-79.1,35,1
+06/02/21,OH,Cincinnati,-84.6,39.2,1
+06/01/21,NJ,Oradell,-74,41,1
+06/01/21,TX,Perrin,-98.1,33,1
+06/01/21,NH,Newport,-72.2,43.4,1
+06/01/21,MI,Harper Woods,-82.9,42.4,1
+06/01/21,WI,Town of Somers,-87.9,42.6,1
+06/01/21,AR,Hot Springs Village,-93,34.6,1
+06/01/21,MA,Groveland,-71,42.8,1
+05/31/21,MN,Saint Paul,-93.1,45,1
+05/31/21,ME,Westbrook,-70.4,43.7,1
+05/31/21,ME,Westbrook,-70.4,43.7,1
+05/31/21,IL,Westmont,-88,41.8,1
+05/31/21,NC,Pineville,-80.9,35.1,1
+05/31/21,WI,Town of Ledgeview,-87.9,44.4,1
+05/30/21,MB,St Andrews,-97,50.1,1
+05/30/21,PA,Girard,-80.4,42,1
+05/29/21,AR,Fayetteville,-94.3,36.1,1
+05/29/21,CA,Vista,-117.2,33.2,1
+05/29/21,MD,Churchton,-76.5,38.8,1
+05/29/21,OH,Sylvania,-83.7,41.7,1
+05/29/21,OH,Put In Bay,-82.8,41.6,1
+05/28/21,CA,Penn Valley,-121.2,39.2,1
+05/27/21,UT,Ogden,-112,41.2,1
+05/27/21,TX,Dallas,-96.7,32.8,1
+05/27/21,MA,New Bedford,-70.9,41.6,1
+05/26/21,NH,Town of Ellsworth,-71.8,43.9,1
+05/26/21,MN,Inver Grove Heights,-93,44.8,1
+05/26/21,PA,East Stroudsburg,-75.2,41,1
+05/26/21,NY,New York,-74,40.7,1
+05/25/21,NH,Portsmouth,-70.8,43.1,1
+05/25/21,MI,Warren,-83.1,42.5,1
+05/25/21,MI,Warren,-83.1,42.5,1
+05/25/21,WI,Portage,-89.5,43.5,1
+05/25/21,WI,Town of Highland,-90.4,43,1
+05/24/21,MI,Royal Oak,-83.1,42.5,1
+05/24/21,ON,Leamington,-82.5,42,1
+05/24/21,IA,Waterloo,-92.4,42.5,1
+05/24/21,QC,St-Hyacinthe,-72.8,45.6,1
+05/23/21,ON,Clarence-Rockland,-75.2,45.4,1
+05/23/21,UT,Alpine,-111.8,40.5,1
+05/23/21,UT,Alpine,-111.8,40.5,1
+05/23/21,UT,Alpine,-111.8,40.5,1
+05/23/21,UT,Alpine,-111.8,40.5,1
+05/23/21,PA,Erie,-80,42.1,1
+05/23/21,ON,Algoma,-84.4,46.8,1
+05/22/21,WI,Waterloo,-88.9,43.1,1
+05/22/21,MO,Purdy,-94,36.8,1
+05/21/21,OH,Antwerp,-84.7,41.2,1
+05/21/21,CA,Rancho Cucamonga,-117.5,34.1,1
+05/21/21,ON,St Catharines,-79.3,43.1,1
+05/20/21,MN,Saint Paul,-93.2,44.9,1
+05/20/21,WI,Peshtigo,-87.8,45.1,1
+05/20/21,RI,Pascoag,-71.7,42,1
+05/20/21,MI,Ottawa Lake,-83.7,41.8,1
+05/19/21,OK,Edmond,-97.5,35.7,1
+05/19/21,MO,Waynesville,-92.2,37.7,1
+05/19/21,NS,Halifax,-63.6,44.7,1
+05/19/21,CA,Rancho Cucamonga,-117.6,34.1,1
+05/19/21,VA,Glen Allen,-77.6,37.7,1
+05/19/21,UT,Salt Lake City,-111.9,40.7,1
+05/19/21,UT,Wendover,-113.4,39.9,1
+05/19/21,IL,Chicago,-87.7,41.7,1
+05/18/21,SD,Vermillion,-96.9,42.8,1
+05/18/21,NY,Webster,-77.4,43.2,1
+05/18/21,MI,Flint,-83.7,43,1
+05/17/21,WI,Jefferson,-88.8,43,1
+05/17/21,ON,Ottawa,-75.7,45.3,1
+05/17/21,OH,Alliance,-81,40.9,1
+05/16/21,NY,Jamestown,-79.2,42.1,1
+05/16/21,ME,Brownfield,-70.9,43.9,1
+05/16/21,UT,North Salt Lake,-111.9,40.8,1
+05/16/21,UT,North Salt Lake,-111.9,40.8,1
+05/16/21,NJ,West Amwell Twp,-74.9,40.4,1
+05/15/21,KS,Leavenworth,-94.9,39.3,1
+05/15/21,KS,Leavenworth,-94.9,39.3,1
+05/15/21,KS,Leavenworth,-94.9,39.3,1
+05/15/21,NY,Town of Canton,-75.2,44.6,1
+05/15/21,CA,Yuba City,-121.6,39.1,1
+05/15/21,MA,Dalton,-73.1,42.5,1
+05/15/21,NJ,Wildwood,-74.8,39,1
+05/14/21,VA,Chester,-77.4,37.4,1
+05/14/21,VA,Chester,-77.4,37.4,1
+05/14/21,WI,Burlington,-88.2,42.6,1
+05/13/21,WI,Milwaukee,-88,43.1,1
+05/13/21,TX,Mason,-99.2,30.7,1
+05/12/21,WI,Osceola,-92.6,45.3,1
+05/12/21,WI,Appleton,-88.4,44.3,1
+05/12/21,MN,Bird Island,-94.9,44.8,1
+05/11/21,KS,Leavenworth,-94.9,39.3,1
+05/11/21,PA,Manheim,-76.4,40.2,1
+05/10/21,TX,Weimar,-96.7,29.6,1
+05/10/21,NJ,Pennsville,-75.5,39.6,1
+05/10/21,MN,Saint Paul,-93.1,45,1
+05/10/21,KY,Louisville,-85.8,38.1,1
+05/09/21,PA,South Park,-80,40.3,1
+05/08/21,IL,Downers Grove,-88,41.8,1
+05/08/21,PA,Homer City,-79.2,40.5,1
+05/08/21,PA,Homer City,-79.2,40.5,1
+05/08/21,IL,Itasca,-88,42,1
+05/07/21,AR,Biggers,-90.8,36.4,1
+05/07/21,TX,Weimar,-96.7,29.6,1
+05/06/21,MD,Gambrills,-76.7,39.1,1
+05/06/21,TX,Mason,-99.2,30.7,1
+05/06/21,GA,Damascus,-84.7,31.3,1
+05/06/21,ON,Hamilton,-79.9,43.3,1
+05/06/21,ON,Hamilton,-79.9,43.3,1
+05/06/21,ON,Hamilton,-79.9,43.3,1
+05/06/21,WI,Ripon,-88.9,43.8,1
+05/06/21,MO,Bevier,-92.6,39.7,1
+05/06/21,VA,Goldvein,-77.6,38.5,1
+05/05/21,IL,Round Lake,-88.1,42.4,1
+05/05/21,MD,Bishopville,-75.1,38.4,1
+05/05/21,MD,Bishopville,-75.1,38.4,1
+05/05/21,MO,Independence,-94.4,39.1,1
+05/05/21,VA,Reston,-77.4,39,1
+05/05/21,WI,Oregon,-89.4,42.9,1
+05/05/21,OH,Saint Clairsville,-80.9,40.1,1
+05/04/21,WI,Milwaukee,-87.9,43,1
+05/04/21,OK,Enid,-97.9,36.4,1
+05/04/21,OH,Canfield,-80.8,41,1
+05/04/21,NY,Town of Tusten,-75,41.6,1
+05/03/21,PA,Palmyra,-76.6,40.3,1
+05/03/21,IL,Round Lake,-88.1,42.4,1
+05/03/21,TX,Pflugerville,-97.6,30.5,1
+05/03/21,ON,North Glengarry,-74.9,45.3,1
+05/02/21,TX,Carrollton,-96.9,33,1
+05/02/21,TN,Nashville,-86.7,36.1,1
+05/02/21,IA,Iowa City,-91.6,41.6,1
+05/02/21,TX,North Richland Hills,-97.2,32.9,1
+05/02/21,TX,Fort Worth,-97.3,32.7,1
+05/02/21,OK,Edmond,-97.5,35.6,1
+05/01/21,FL,Port Orange,-81.1,29.1,1
+05/01/21,PA,Homer City,-79.2,40.5,9
+05/01/21,MI,Sterling Heights,-83,42.6,1
+05/01/21,MD,Monrovia,-77.3,39.4,1
+05/01/21,IL,Crystal Lake,-88.4,42.2,1
+05/01/21,TX,North Richland Hills,-97.2,32.8,1
+05/01/21,PA,Elizabethtown,-76.6,40.2,1
+05/01/21,NM,Albuquerque,-106.7,35.1,1
+05/01/21,ON,Brampton,-79.8,43.7,1
+05/01/21,ME,Athens,-69.7,44.9,1
+05/01/21,MA,Chelmsford,-71.3,42.6,1
+05/01/21,NC,Asheville,-82.6,35.5,1
+04/30/21,VA,Reston,-77.3,38.9,1
+04/30/21,NC,Pittsboro,-79.2,35.7,1
+04/30/21,TX,Hamilton,-98,31.7,1
+04/29/21,ON,Leamington,-82.5,42,1
+04/29/21,ON,Windsor,-83,42.3,1
+04/29/21,VA,Fairfax,-77.3,38.8,1
+04/28/21,TX,Itasca,-97.1,32.2,1
+04/28/21,IL,Willowbrook,-87.9,41.8,1
+04/28/21,MA,Osterville,-70.4,41.6,1
+04/27/21,OH,Cincinnati,-84.5,39.1,1
+04/27/21,TX,Brashear,-95.7,33.1,1
+04/27/21,AL,Cedar Bluff,-85.6,34.2,1
+04/25/21,LA,Crowley,-92.4,30.2,1
+04/25/21,LA,Eunice,-92.4,30.5,1
+04/25/21,TX,Weatherford,-97.9,32.7,1
+04/24/21,NY,Newfane,-78.7,43.3,1
+04/24/21,NJ,Little Falls,-74.2,40.9,1
+04/23/21,TX,Canyon Lake,-98.3,29.9,1
+04/23/21,OK,Lawton,-98.3,34.6,1
+04/22/21,IL,Peoria,-89.6,40.8,1
+04/21/21,VA,Fredericksburg,-77.5,38.3,1
+04/21/21,TX,Cedar Park,-97.9,30.5,1
+04/20/21,MO,Centertown,-92.4,38.7,1
+04/20/21,TN,Lenoir City,-84.3,35.8,1
+04/19/21,AL,Pell City,-86.2,33.6,1
+04/19/21,IN,Zionsville,-86.3,39.9,1
+04/19/21,TX,Sweeny,-95.7,29.1,1
+04/19/21,MO,Adrian,-94.4,38.4,1
+04/18/21,IL,Naperville,-88.1,41.8,1
+04/18/21,IA,Windsor Heights,-93.7,41.6,1
+04/17/21,IL,Braidwood,-88.2,41.3,1
+04/16/21,OK,Lawton,-98.4,34.6,1
+04/15/21,MD,Arnold,-76.5,39.1,1
+04/15/21,LA,Lafayette,-92,30.2,1
+04/15/21,OH,Painesville,-81.2,41.8,1
+04/14/21,TX,Mansfield,-97.1,32.6,1
+04/14/21,TX,Mansfield,-97.1,32.6,1
+04/14/21,MD,Chesapeake Beach,-76.6,38.7,1
+04/14/21,MO,Kansas City,-94.6,39.3,1
+04/14/21,IL,Morton Grove,-87.8,42,1
+04/14/21,TX,Fort Worth,-97.4,32.7,1
+04/14/21,IL,Ivesdale,-88.5,39.9,1
+04/13/21,OK,Mounds,-95.9,35.9,1
+04/13/21,OH,Powell,-83.2,40.2,1
+04/12/21,ON,Leamington,-82.5,42,1
+04/12/21,OK,Mounds,-96,35.9,1
+04/12/21,NC,Apex,-78.9,35.7,1
+04/12/21,OK,Oklahoma City,-97.5,35.5,1
+04/11/21,OK,Lawton,-98.3,34.6,1
+04/11/21,TX,Driftwood,-98,30.1,1
+04/10/21,VA,Fredericksburg,-77.5,38.3,1
+04/10/21,IN,Westpoint,-87,40.3,1
+04/10/21,TX,Chandler,-95.5,32.3,1
+04/09/21,ON,Sarnia,-82.4,43,1
+04/09/21,AR,Greenbrier,-92.4,35.2,1
+04/09/21,TX,Montgomery,-95.8,30.4,1
+04/08/21,NC,Graham,-79.4,36.1,1
+04/08/21,UT,Alpine,-111.8,40.5,1
+04/08/21,IL,Waverly,-90,39.6,1
+04/08/21,KY,Lexington,-84.5,38,1
+04/08/21,OH,Loveland,-84.3,39.3,1
+04/07/21,OK,Mounds,-95.9,35.9,1
+04/07/21,TX,Driftwood,-98,30.1,1
+04/06/21,TN,Johnson City,-82.4,36.3,1
+04/06/21,IA,Bettendorf,-90.5,41.6,1
+04/06/21,GA,Lyerly,-85.4,34.4,1
+04/06/21,OK,Norman,-97.4,35.2,1
+04/05/21,OK,Broken Arrow,-95.8,36.1,1
+04/05/21,AR,Cabot,-92,35,1
+04/04/21,CA,Fair Oaks,-121.3,38.6,1
+04/04/21,OK,Norman,-97.5,35.3,1
+04/04/21,CA,Oxnard,-119.1,34.2,1
+04/03/21,TX,Carrollton,-96.9,33,1
+04/02/21,CA,Trabuco Canyon,-117.6,33.7,1
+04/02/21,OK,Owasso,-95.8,36.3,1
+04/02/21,AZ,Sedona,-111.8,34.8,1
+04/02/21,AZ,Sedona,-111.8,34.8,1
+04/02/21,AZ,Sedona,-111.8,34.8,1
+04/01/21,MO,Saint Louis,-90.3,38.6,1
+03/31/21,OK,Sand Springs,-96.3,36.1,1
+03/31/21,TX,Caldwell,-96.5,30.6,1
+03/30/21,TX,Sunnyvale,-96.6,32.8,1
+03/30/21,OK,Edmond,-97.5,35.7,1
+03/30/21,TX,Seguin,-98,29.6,1
+03/29/21,TX,Horseshoe Bay,-98.4,30.6,1
+03/29/21,TX,Austin,-97.7,30.3,1
+03/29/21,TX,Austin,-97.9,30.2,1
+03/29/21,TX,Austin,-97.9,30.2,1
+03/29/21,TX,Austin,-97.9,30.2,1
+03/29/21,TX,Austin,-97.9,30.2,1
+03/29/21,TX,Austin,-97.9,30.2,1
+03/29/21,TX,Austin,-97.9,30.2,1
+03/28/21,TX,Driftwood,-98,30.1,1
+03/28/21,FL,Naples,-81.6,26.3,1
+03/28/21,TX,Plano,-96.7,33,1
+03/28/21,SC,Summerville,-80.2,33,1
+03/25/21,TX,Boerne,-98.7,29.7,1
+03/21/21,TX,San Antonio,-98.3,29.6,1
+03/19/21,TX,San Antonio,-98.4,29.5,1
+03/18/21,TX,Texas City,-95,29.4,1
+03/18/21,AZ,Glendale,-112.2,33.6,1
+03/17/21,TX,Port Lavaca,-96.7,28.6,1
+03/17/21,AZ,Phoenix,-112.2,33.7,1
+03/16/21,TX,Forney,-96.4,32.7,1
+03/16/21,TX,Glen Rose,-97.8,32.2,1
+03/16/21,NC,Knightdale,-78.5,35.8,1
+03/15/21,TX,DFW Airport,-97.1,32.9,1
+03/14/21,TX,Driftwood,-98,30.1,1
+03/13/21,TX,Marble Falls,-98.3,30.6,1
+03/12/21,TX,Driftwood,-98,30.1,1
+03/12/21,TX,Forney,-96.4,32.7,1
+03/11/21,TX,Driftwood,-98,30.1,1
+03/10/21,GA,Pooler,-81.3,32.1,1
+03/09/21,TX,Driftwood,-98,30.1,1
+03/06/21,TX,Driftwood,-98,30.1,1
+03/01/21,CA,Murrieta,-117.2,33.6,1
+02/25/21,FL,Saint Petersburg,-82.6,27.8,1
+02/25/21,FL,Saint Petersburg,-82.6,27.8,1
+02/24/21,NLE,San Pedro Garza García,-100.4,25.7,1
+02/23/21,FL,The Villages,-82,28.9,1
+02/23/21,FL,North Fort Myers,-81.9,26.7,1
+01/14/21,TX,Cedar Park,-97.8,30.5,1

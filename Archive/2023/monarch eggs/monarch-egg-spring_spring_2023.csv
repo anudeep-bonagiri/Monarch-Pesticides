@@ -1,0 +1,594 @@
+Date,State,Town,Longitude,Latitude,Sighting
+07/31/23,MN,Mankato,-94,44.1,6
+07/31/23,PA,Flourtown,-75.2,40.1,2
+07/31/23,PA,Harrisburg,-76.9,40.3,3
+07/31/23,MA,Amherst,-72.5,42.4,1
+07/31/23,WI,Boulder Junction,-89.6,46.1,4
+07/31/23,UT,Salt Lake City,-111.9,40.8,10
+07/31/23,UT,Salt Lake City,-111.9,40.8,2
+07/31/23,WI,West Allis,-88,43,10
+07/31/23,MI,Rochester Hills,-83.2,42.7,12
+07/31/23,CT,Deep River,-72.4,41.4,4
+07/31/23,UT,Salt Lake City,-111.9,40.8,5
+07/31/23,WI,Cornell,-91.3,45.2,3
+07/31/23,WI,Arcadia,-91.5,44.2,2
+07/31/23,NJ,Glen Ridge,-74.2,40.8,12
+07/31/23,WI,Arcadia,-91.5,44.2,1
+07/31/23,IL,Schaumburg,-88.1,42,6
+07/31/23,IL,Elk Grove Village,-88,42,2
+07/31/23,NH,Stewartstown,-71.5,44.9,4
+07/31/23,PA,Erie,-80.1,42.1,3
+07/31/23,OH,Trenton,-84.5,39.5,4
+07/31/23,MI,White Lake Charter Township,-83.5,42.6,4
+07/31/23,PA,Flourtown,-75.2,40.1,8
+07/31/23,MN,Eagan,-93.2,44.8,27
+07/31/23,NY,Barton,-76.4,42.2,4
+07/31/23,ON,Waterloo,-80.5,43.5,6
+07/31/23,IN,Munster,-87.5,41.6,11
+07/31/23,IN,South Bend,-86.2,41.6,1
+07/31/23,PA,McKees Rocks,-80.1,40.5,2
+07/31/23,OH,Fremont,-83.1,41.3,60
+07/31/23,VA,Herndon,-77.4,38.9,9
+07/31/23,MN,Plymouth,-93.5,45,23
+07/31/23,IL,Waverly,-90,39.6,2
+07/31/23,ON,LaSalle,-83.1,42.2,1
+07/31/23,ON,Newmarket,-79.5,44.1,7
+07/31/23,PA,Philadelphia,-75.2,40,1
+07/31/23,VA,Surry,-76.8,37.2,1
+07/31/23,MI,Petoskey,-85,45.3,10
+07/31/23,NJ,Flemington,-74.9,40.5,2
+07/31/23,IL,Rockford,-89.2,42.2,4
+07/31/23,MN,Minneapolis,-93.3,44.9,2
+07/31/23,NJ,East Windsor,-74.5,40.3,8
+07/30/23,MN,Hopkins,-93.4,44.9,1
+07/30/23,WI,Madison,-89.4,43.1,1
+07/30/23,MI,Gaylord,-84.8,45,1
+07/30/23,CO,Broomfield,-105.1,39.9,3
+07/30/23,NY,Bath,-77.4,42.4,2
+07/30/23,UT,Salt Lake City,-111.9,40.8,1
+07/30/23,IL,Lynn Center,-90.3,41.2,8
+07/30/23,IL,Inverness,-88.1,42.1,7
+07/30/23,MN,Duluth,-92.1,46.8,4
+07/30/23,UT,Cedar Hills,-111.8,40.4,4
+07/30/23,UT,Saratoga Springs,-111.9,40.3,2
+07/30/23,UT,Salt Lake City,-111.9,40.8,8
+07/30/23,PA,Hatboro,-75.1,40.2,3
+07/30/23,PA,McKees Rocks,-80.1,40.5,2
+07/30/23,MO,St. Louis,-90.3,38.6,1
+07/30/23,KS,Overland Park,-94.7,38.9,5
+07/30/23,ON,Brampton,-79.8,43.7,4
+07/30/23,IL,Fairbury,-88.5,40.7,4
+07/30/23,ME,Athens,-69.7,44.9,1
+07/30/23,IL,Waverly,-90,39.6,13
+07/30/23,CO,Thornton,-104.9,40,10
+07/30/23,IL,Winnetka,-87.8,42.1,10
+07/30/23,OH,Antwerp,-84.7,41.2,21
+07/30/23,CA,Oceanside,-117.4,33.2,3
+07/30/23,VA,Boston,-78.2,38.5,1
+07/30/23,ON,Thunder Bay,-89.3,48.4,3
+07/30/23,MI,Gulliver,-86.1,46.1,3
+07/30/23,ON,Windsor,-83.1,42.2,8
+07/30/23,MN,Chaska,-93.7,44.8,13
+07/30/23,VA,Surry,-76.8,37.2,6
+07/30/23,MI,Petoskey,-85,45.3,25
+07/30/23,PA,Westfield,-77.6,41.9,2
+07/29/23,FL,Lakeland,-81.9,28,13
+07/29/23,WI,Oregon,-89.4,42.9,6
+07/29/23,ON,Windsor,-83.1,42.2,11
+07/29/23,MA,New Bedford,-70.9,41.6,3
+07/29/23,IL,Chicago,-87.8,42,5
+07/29/23,PA,Philadelphia,-75.2,40,1
+07/29/23,OH,Massillon,-81.5,40.8,2
+07/29/23,UT,Salt Lake City,-111.9,40.8,8
+07/29/23,MI,Boyne City,-85,45.2,4
+07/29/23,KS,Overland Park,-94.7,38.9,3
+07/29/23,UT,Highland,-111.8,40.4,24
+07/29/23,IL,Waverly,-90,39.6,18
+07/29/23,MN,St Paul,-93.1,45,13
+07/29/23,IN,Greensburg,-85.4,39.3,6
+07/29/23,MI,Ann Arbor,-83.8,42.3,5
+07/29/23,MN,Eden Prairie,-93.4,44.8,2
+07/29/23,MI,Bridgewater,-83.9,42.2,10
+07/29/23,ON,Halton Hills,-79.9,43.7,1
+07/29/23,WI,Beloit,-89,42.5,10
+07/29/23,MI,Petoskey,-85,45.3,4
+07/29/23,MN,Minnetonka,-93.5,44.9,4
+07/28/23,MN,Northfield,-93.2,44.4,6
+07/28/23,ON,Prince Edward,-77.5,44,2
+07/28/23,TX,Glen Rose,-97.8,32.2,2
+07/28/23,IL,Batavia,-88.3,41.8,15
+07/28/23,IL,Willowbrook,-87.9,41.8,11
+07/28/23,WI,Eau Claire,-91.6,44.8,2
+07/28/23,IN,Munster,-87.5,41.6,6
+07/28/23,CO,Broomfield,-105.1,39.9,19
+07/28/23,MI,Grosse Pointe Park,-82.9,42.4,4
+07/28/23,OH,Cleveland Heights,-81.6,41.5,1
+07/28/23,MN,St Anthony,-93.2,45,2
+07/28/23,OH,Cleveland Heights,-81.6,41.5,3
+07/28/23,OH,Cleveland Heights,-81.6,41.5,1
+07/28/23,OH,Cleveland Heights,-81.6,41.5,1
+07/28/23,OH,Cleveland Heights,-81.6,41.5,1
+07/28/23,OH,Cleveland Heights,-81.6,41.5,1
+07/28/23,ON,Mississauga,-79.6,43.6,1
+07/28/23,IL,Winnetka,-87.8,42.1,1
+07/28/23,NB,Chipman,-65.9,46.2,1
+07/28/23,NY,Beekman,-73.7,41.6,3
+07/28/23,ME,Kittery,-70.7,43.1,1
+07/28/23,ON,Leamington,-82.5,42,8
+07/28/23,ON,Richmond Hill,-79.4,43.9,6
+07/28/23,OH,Mentor,-81.4,41.7,8
+07/28/23,ON,Brampton,-79.8,43.7,5
+07/28/23,IL,Fairbury,-88.5,40.8,3
+07/28/23,UT,Nibley,-111.8,41.7,32
+07/28/23,MI,Warren,-83,42.5,2
+07/28/23,OK,Edmond,-97.5,35.7,1
+07/28/23,ON,Windsor,-83.1,42.2,11
+07/28/23,IL,Homewood,-87.6,41.6,34
+07/28/23,OH,Loveland,-84.2,39.2,5
+07/28/23,PA,Pulaski,-80.5,41.1,8
+07/28/23,UT,Salt Lake City,-111.9,40.8,12
+07/28/23,OH,Springfield,-83.8,40,18
+07/28/23,MI,Eastpointe,-83,42.5,1
+07/28/23,IL,Ivesdale,-88.5,39.9,5
+07/28/23,QC,Lachute,-74.3,45.7,1
+07/28/23,WI,Cazenovia,-90.2,43.5,1
+07/28/23,MN,Brooklyn Park,-93.3,45.1,1
+07/27/23,MI,Grand Rapids,-85.6,43,6
+07/27/23,MO,KCMO,-94.5,39.2,8
+07/27/23,IL,Waverly,-90,39.6,5
+07/27/23,CT,Tolland,-72.3,41.9,17
+07/27/23,KS,Pittsburg,-94.7,37.4,3
+07/27/23,WI,Madison,-89.5,43.1,4
+07/27/23,SD,Sioux Falls,-96.8,43.6,9
+07/27/23,MN,St Paul,-93.1,45,9
+07/27/23,PA,Carnot-Moon,-80.2,40.5,6
+07/27/23,TN,Nashville,-86.8,36.2,4
+07/26/23,ON,Sarnia,-82.4,43,1
+07/26/23,MO,Ballwin,-90.5,38.6,16
+07/26/23,UT,Cedar Hills,-111.8,40.4,18
+07/26/23,UT,Cedar Hills,-111.7,40.4,2
+07/26/23,IL,Glencoe,-87.8,42.1,1
+07/26/23,CO,Broomfield,-105.1,39.9,4
+07/26/23,ON,Bradford West Gwillimbury,-79.6,44.1,10
+07/26/23,UT,Highland,-111.8,40.4,22
+07/26/23,ON,Prince Edward,-77.5,44,1
+07/26/23,UT,Cedar Hills,-111.8,40.4,14
+07/26/23,IL,Waverly,-90,39.6,3
+07/26/23,MO,KCMO,-94.5,39.2,16
+07/26/23,KY,Louisville,-85.7,38.2,8
+07/26/23,NY,Youngstown,-79,43.2,10
+07/25/23,ON,Sarnia,-82.4,43,3
+07/25/23,MI,Grand Rapids,-85.6,43,4
+07/25/23,UT,Cedar Hills,-111.8,40.4,5
+07/25/23,IL,Winnetka,-87.8,42.1,1
+07/25/23,MT,Emigrant,-110.8,45.3,3
+07/25/23,QC,Mont-Blanc,-74.5,46.1,1
+07/25/23,ON,Waterloo,-80.5,43.5,17
+07/25/23,IL,Waverly,-90,39.6,16
+07/25/23,OH,Cortland,-80.7,41.3,25
+07/25/23,MO,KCMO,-94.5,39.2,2
+07/25/23,ON,Newmarket,-79.5,44.1,7
+07/25/23,WI,Wisconsin Dells,-89.8,43.6,60
+07/24/23,NY,Victor,-77.4,43,6
+07/24/23,ON,Leamington,-82.6,42,5
+07/24/23,MO,Ballwin,-90.5,38.6,28
+07/24/23,QC,Lachute,-74.3,45.7,4
+07/24/23,ON,Thunder Bay,-89.2,48.4,5
+07/24/23,MO,KCMO,-94.5,39.2,7
+07/24/23,IL,Waverly,-90,39.6,20
+07/24/23,MI,Dorr,-85.7,42.7,3
+07/24/23,ON,Newmarket,-79.5,44.1,15
+07/23/23,ON,Ottawa,-75.9,45.2,4
+07/23/23,MO,St Joseph,-94.8,39.8,1
+07/23/23,CO,Elizabeth,-104.6,39.3,3
+07/23/23,CO,Arvada,-105.1,39.8,7
+07/23/23,IN,Munster,-87.5,41.6,6
+07/23/23,QC,Gore,-74.3,45.7,2
+07/23/23,QC,Gore,-74.3,45.7,2
+07/23/23,MO,KCMO,-94.5,39.2,38
+07/23/23,IL,Waverly,-90,39.6,7
+07/23/23,MO,University City,-90.3,38.7,10
+07/23/23,MI,White Lake Charter Township,-83.5,42.6,18
+07/23/23,ON,Kitchener,-80.5,43.4,2
+07/23/23,ON,Newmarket,-79.5,44.1,60
+07/23/23,CA,San Jose,-121.9,37.3,1
+07/23/23,IN,Hammond,-87.5,41.6,10
+07/23/23,NJ,Hightstown,-74.6,40.3,6
+07/22/23,MB,Saint Claude,-98.3,49.7,4
+07/22/23,IL,Springfield,-89.7,39.9,3
+07/22/23,ON,Waterloo,-80.5,43.5,28
+07/22/23,IL,Waverly,-90,39.6,12
+07/22/23,ON,Windsor,-83.1,42.2,5
+07/22/23,MO,KCMO,-94.5,39.2,21
+07/22/23,ON,Newmarket,-79.5,44.1,29
+07/21/23,IL,Rockford,-89,42.3,1
+07/21/23,ON,Leamington,-82.6,42,3
+07/21/23,MN,Arden Hills,-93.2,45.1,1
+07/21/23,ON,Waterloo,-80.5,43.5,4
+07/21/23,IL,Waverly,-90,39.6,7
+07/21/23,SC,Mt Pleasant,-79.8,32.9,3
+07/21/23,MO,KCMO,-94.5,39.2,37
+07/21/23,OH,Canal Winchester,-82.8,39.8,3
+07/20/23,ON,Windsor,-83,42.3,2
+07/20/23,IL,Waverly,-90,39.6,11
+07/20/23,ON,Staples,-82.6,42.1,4
+07/20/23,ON,Newmarket,-79.5,44.1,15
+07/20/23,MI,Marshall,-85,42.3,6
+07/19/23,TN,Nashville,-86.8,36.2,1
+07/19/23,MA,Lincoln,-71.3,42.4,3
+07/19/23,ON,Windsor,-83,42.3,25
+07/19/23,IL,Waverly,-90,39.6,1
+07/19/23,OH,Canton,-81.4,40.8,4
+07/19/23,NY,Monroe,-74.2,41.3,1
+07/19/23,CO,Arvada,-105.1,39.9,1
+07/19/23,ON,Newmarket,-79.5,44.1,38
+07/19/23,WI,Brillion,-88.1,44.2,26
+07/19/23,WI,Brillion,-88.1,44.2,5
+07/19/23,WI,Brillion,-88.1,44.2,1
+07/19/23,TN,Nashville,-86.8,36.1,15
+07/19/23,WI,Brillion,-88.1,44.2,6
+07/18/23,MI,Grand Rapids,-85.6,43,3
+07/18/23,CO,Westminster,-105.1,39.9,1
+07/18/23,ON,Windsor,-83.1,42.2,3
+07/18/23,IL,Waverly,-90,39.6,5
+07/18/23,ON,Waterloo,-80.5,43.5,16
+07/18/23,ON,Windsor,-83,42.3,20
+07/18/23,OH,Elyria,-82.1,41.3,5
+07/18/23,MI,Ypsilanti,-83.6,42.2,4
+07/18/23,ON,Newmarket,-79.5,44.1,23
+07/18/23,IN,Hammond,-87.5,41.6,6
+07/17/23,MO,St Joseph,-94.8,39.8,1
+07/17/23,ON,Newmarket,-79.5,44.1,50
+07/17/23,MI,Grand Rapids,-85.6,43,1
+07/17/23,IL,Fairbury,-88.5,40.7,6
+07/17/23,ON,Leamington,-82.6,42,1
+07/17/23,ON,Windsor,-83,42.3,9
+07/16/23,OH,Kingston,-82.8,39.4,2
+07/16/23,NY,Beekman,-73.7,41.6,10
+07/16/23,IL,Fairbury,-88.5,40.8,3
+07/16/23,IN,Munster,-87.5,41.6,4
+07/16/23,QC,Saint-Calixte,-73.8,46,6
+07/16/23,PA,Wilkes-Barre,-75.8,41.3,9
+07/16/23,IL,Waverly,-90,39.6,2
+07/16/23,CA,Irvine,-117.8,33.7,5
+07/16/23,CO,Broomfield,-105.1,39.9,5
+07/16/23,MI,Grand Rapids,-85.6,43,3
+07/16/23,IN,Hammond,-87.5,41.6,3
+07/15/23,MN,Minneapolis,-93.4,45,1
+07/15/23,NJ,Glen Ridge,-74.2,40.8,14
+07/15/23,IN,Munster,-87.5,41.6,3
+07/15/23,IL,Waverly,-90,39.6,14
+07/15/23,CO,Denver,-105,39.7,15
+07/15/23,QC,Mont-Blanc,-74.5,46.1,8
+07/15/23,ON,Ottawa,-75.9,45.1,3
+07/15/23,FL,Coral Gables,-80.3,25.8,2
+07/15/23,NY,Hyde Park,-73.9,41.8,5
+07/15/23,MA,Winchendon,-72,42.7,50
+07/15/23,WI,Madison,-89.3,43.1,2
+07/14/23,NJ,Wanaque,-74.3,41,2
+07/14/23,IL,Waverly,-90,39.6,19
+07/14/23,MI,Grand Rapids,-85.6,43,3
+07/14/23,CT,Monroe,-73.2,41.3,116
+07/13/23,MI,Dearborn,-83.2,42.3,4
+07/13/23,ON,Waterloo,-80.5,43.5,7
+07/13/23,PA,Bally,-75.6,40.4,1
+07/13/23,NJ,Hightstown,-74.6,40.3,1
+07/12/23,ON,Windsor,-82.9,42.3,9
+07/12/23,PA,Wernersville,-76.1,40.3,6
+07/12/23,IL,Fairbury,-88.5,40.8,8
+07/12/23,NY,Boiceville,-74.3,42,12
+07/12/23,MI,Kalamazoo,-85.6,42.3,1
+07/12/23,MN,Minneapolis,-93.3,45.1,1
+07/12/23,ON,Fergus,-80.4,43.7,150
+07/11/23,NY,New York,-73.8,40.8,10
+07/11/23,MA,Winchester,-71.1,42.5,8
+07/11/23,ON,Waterloo,-80.5,43.5,34
+07/11/23,IL,Waverly,-90,39.6,12
+07/11/23,MI,Midland,-84.2,43.6,16
+07/11/23,WI,Brillion,-88.1,44.2,18
+07/11/23,WI,Brillion,-88.1,44.2,6
+07/11/23,WI,Brillion,-88.1,44.2,2
+07/11/23,MI,Beverly Hills,-83.2,42.5,20
+07/10/23,MA,Winchester,-71.1,42.5,3
+07/10/23,MI,Grosse Pointe Park,-82.9,42.4,1
+07/10/23,ON,Windsor,-82.9,42.3,11
+07/10/23,ON,Windsor,-83,42.3,8
+07/10/23,ON,Mississauga,-79.6,43.6,1
+07/10/23,ON,Leamington,-82.6,42,5
+07/10/23,ON,Leamington,-82.6,42,2
+07/10/23,ON,Leamington,-82.6,42,1
+07/10/23,ON,Leamington,-82.6,42,2
+07/10/23,ON,Leamington,-82.6,42,1
+07/10/23,VA,Glade Spring,-81.8,36.8,4
+07/10/23,ON,Ottawa,-75.7,45.4,5
+07/10/23,ON,Waterloo,-80.5,43.5,20
+07/10/23,IL,Waverly,-90,39.6,4
+07/10/23,PA,Erie,-80.1,42.1,4
+07/10/23,MN,Minneapolis,-93.3,45.1,4
+07/09/23,MN,New Brighton,-93.2,45.1,1
+07/09/23,ON,Toronto,-79.3,43.7,7
+07/09/23,IL,Fairbury,-88.5,40.8,1
+07/09/23,NY,Rochester,-77.7,43.2,5
+07/09/23,IL,Naperville,-88.2,41.7,3
+07/09/23,IL,Skokie,-87.8,42,14
+07/09/23,ON,Windsor,-82.9,42.3,7
+07/09/23,WI,Wauwatosa,-88,43.1,26
+07/09/23,IN,Munster,-87.5,41.6,14
+07/09/23,CO,Boulder,-105.2,40,3
+07/09/23,CA,Temecula,-117.1,33.5,10
+07/09/23,ON,Toronto,-79.5,43.6,7
+07/09/23,VA,Suffolk,-76.5,36.8,1
+07/09/23,ON,Toronto,-79.2,43.8,9
+07/09/23,MN,Minneapolis,-93.3,45.1,3
+07/08/23,IN,Hammond,-87.5,41.6,1
+07/08/23,WI,Waunakee,-89.4,43.2,5
+07/08/23,ON,Tecumseh,-82.9,42.3,2
+07/08/23,NY,Chenango,-75.9,42.2,1
+07/08/23,IL,Chicago,-87.8,42,2
+07/08/23,ON,Windsor,-83,42.3,23
+07/08/23,ON,Waterloo,-80.5,43.5,8
+07/08/23,ON,Windsor,-83,42.3,3
+07/07/23,ON,Tecumseh,-82.9,42.3,7
+07/07/23,NJ,Glen Ridge,-74.2,40.8,15
+07/07/23,ON,Windsor,-83,42.3,3
+07/06/23,MN,Fridley,-93.3,45.1,1
+07/06/23,PA,Ferris Corners,-80,41.8,2
+07/06/23,ON,Windsor,-82.9,42.3,12
+07/06/23,IN,Munster,-87.5,41.6,3
+07/06/23,ON,Ottawa,-75.9,45.2,1
+07/06/23,MT,Great Falls,-111.3,47.5,1
+07/05/23,NJ,Bloomfield,-74.2,40.8,4
+07/05/23,WI,Brillion,-88.1,44.2,36
+07/05/23,WI,Brillion,-88.1,44.2,4
+07/05/23,WI,Brillion,-88.1,44.2,3
+07/04/23,IL,Chicago,-87.7,41.9,8
+07/04/23,SK,Saskatoon,-106.6,52.1,1
+07/04/23,ON,Windsor,-83,42.3,7
+07/04/23,UT,Salt Lake City,-111.9,40.8,15
+07/03/23,ON,Toronto,-79.4,43.7,1
+07/03/23,ON,Toronto,-79.1,43.8,1
+07/03/23,IL,Blue Island,-87.7,41.7,2
+07/03/23,NJ,Bloomfield,-74.2,40.8,5
+07/03/23,VA,Virginia Beach,-76,36.9,10
+07/02/23,CO,Broomfield,-105.1,39.9,1
+07/02/23,SK,Saskatoon,-106.6,52.1,4
+07/02/23,UT,Cedar Hills,-111.8,40.4,7
+07/02/23,MN,Arden Hills,-93.2,45.1,4
+07/02/23,MN,Minneapolis,-93.2,44.9,1
+07/01/23,WI,Wauwatosa,-88,43.1,6
+07/01/23,SK,Saskatoon,-106.7,52.1,2
+07/01/23,ON,Amherstburg,-83.1,42.1,3
+07/01/23,NJ,Fairfield,-74.3,40.9,27
+06/30/23,NJ,Jackson Township,-74.3,40.1,6
+06/30/23,IL,Fairbury,-88.5,40.8,11
+06/30/23,PA,Upper Saucon Township,-75.4,40.5,13
+06/29/23,IL,Plainfield,-88.2,41.6,3
+06/29/23,NY,Wappingers Falls,-74,41.5,1
+06/29/23,WI,Brillion,-88.1,44.2,2
+06/28/23,UT,Alpine,-111.8,40.5,3
+06/28/23,NY,Westhampton Beach,-72.6,40.8,4
+06/26/23,UT,Providence,-111.8,41.7,2
+06/26/23,IL,Rockford,-89,42.3,4
+06/25/23,SC,Murrells Inlet,-79.1,33.6,15
+06/23/23,IL,Waverly,-90,39.6,1
+06/23/23,IL,Waverly,-90,39.6,5
+06/22/23,IL,Fairbury,-88.5,40.8,8
+06/22/23,IL,Waverly,-90,39.6,1
+06/21/23,WI,Brillion,-88.1,44.2,1
+06/21/23,IL,Waverly,-90,39.6,3
+06/20/23,IL,Batavia,-88.3,41.8,3
+06/20/23,IL,Waverly,-90,39.6,11
+06/20/23,UT,Salt Lake City,-111.9,40.8,1
+06/19/23,OH,Morrow,-84.1,39.3,4
+06/19/23,NY,Alabama,-78.4,43.1,3
+06/19/23,MI,Grosse Pointe Park,-82.9,42.4,5
+06/19/23,CA,Seal Beach,-118,33.8,8
+06/19/23,IL,Itasca,-88,42,5
+06/19/23,OK,Mounds,-95.9,35.9,3
+06/18/23,IN,West Point,-87,40.3,6
+06/18/23,UT,Salt Lake City,-111.9,40.8,12
+06/17/23,OK,Broken Arrow,-95.8,36,2
+06/16/23,OH,Chandlersville,-81.9,39.9,5
+06/15/23,WI,Brillion,-88.1,44.2,4
+06/15/23,OR,Grants Pass,-123.3,42.6,6
+06/14/23,OH,Elyria,-82.1,41.3,2
+06/14/23,NE,Omaha,-96.2,41.2,4
+06/14/23,IL,Waverly,-90,39.6,2
+06/14/23,WI,Brillion,-88.1,44.2,1
+06/13/23,HI,Kihei,-156.5,20.7,2
+06/13/23,HI,Kihei,-156.5,20.7,2
+06/13/23,IL,Waverly,-90,39.6,11
+06/13/23,NJ,Boonton,-74.4,40.9,9
+06/10/23,CA,Mountain View,-122.1,37.4,1
+06/07/23,FL,Jacksonville,-81.5,30.3,1
+06/07/23,SK,Kamsack,-101.9,51.6,3
+06/04/23,SK,Regina,-104.6,50.4,5
+06/03/23,MB,Mitchell,-96.8,49.5,3
+06/02/23,IL,Waverly,-90,39.6,15
+06/01/23,IL,Waverly,-90,39.6,22
+06/01/23,WI,Brillion,-88.1,44.2,1
+06/01/23,WI,Brillion,-88.1,44.2,2
+05/31/23,IN,Hammond,-87.5,41.6,3
+05/31/23,ON,Lakeshore,-82.5,42.3,1
+05/31/23,IN,Michigan City,-86.9,41.7,3
+05/29/23,MB,Morden,-98.1,49.2,21
+05/29/23,IN,Hammond,-87.5,41.6,1
+05/28/23,MN,New Brighton,-93.2,45.1,5
+05/28/23,WI,Wauwatosa,-88,43.1,3
+05/28/23,MN,Columbia Heights,-93.2,45,2
+05/28/23,MN,St Anthony,-93.2,45,2
+05/28/23,FL,Gainesville,-82.4,29.7,5
+05/28/23,NC,Walnut Creek,-77.9,35.3,30
+05/27/23,VA,Irvington,-76.4,37.7,2
+05/27/23,MN,New Brighton,-93.2,45.1,4
+05/26/23,TX,Driftwood,-98,30.1,4
+05/25/23,KS,Pittsburg,-94.7,37.4,10
+05/25/23,ND,Oakes,-98.1,46.1,4
+05/25/23,MO,KCMO,-94.5,39.2,13
+05/25/23,IN,Hammond,-87.5,41.6,2
+05/24/23,WI,Madison,-89.4,43.1,9
+05/24/23,SC,Murrells Inlet,-79.1,33.6,25
+05/24/23,IL,Waverly,-90,39.6,1
+05/23/23,AL,Summerdale,-87.7,30.5,1
+05/23/23,MI,Dexter,-83.8,42.3,1
+05/23/23,IL,Waverly,-90,39.6,7
+05/23/23,IL,Crystal Lake,-88.4,42.2,2
+05/23/23,IL,Wyoming,-89.8,41.1,1
+05/23/23,MO,KCMO,-94.5,39.2,17
+05/23/23,IN,Hammond,-87.5,41.6,2
+05/22/23,MO,KCMO,-94.5,39.2,9
+05/22/23,MN,Clarkfield,-95.8,44.8,4
+05/22/23,PA,Upper Saucon Township,-75.4,40.5,2
+05/21/23,IA,Wever,-91.3,40.7,10
+05/21/23,WI,Wauwatosa,-88,43.1,1
+05/21/23,IL,Waverly,-90,39.6,1
+05/20/23,FL,Gainesville,-82.4,29.7,17
+05/17/23,IL,Waverly,-90,39.6,1
+05/16/23,IL,Waverly,-90,39.6,11
+05/16/23,TX,Glen Rose,-97.8,32.2,2
+05/16/23,MI,Grand Ledge,-84.7,42.8,25
+05/16/23,TX,Driftwood,-98,30.1,5
+05/15/23,IL,Waverly,-90,39.6,1
+05/15/23,CA,Temple City,-118.1,34.1,8
+05/14/23,MN,Minneapolis,-93.4,45,11
+05/14/23,CA,Los Angeles,-118.3,33.8,20
+05/13/23,IL,Waverly,-90,39.6,2
+05/12/23,IL,Waverly,-90,39.6,11
+05/12/23,KY,Louisville,-85.7,38.2,50
+05/12/23,KS,Perry,-95.4,39.1,8
+05/11/23,FL,Jacksonville,-81.5,30.3,24
+05/11/23,WI,Glen Haven,-91.1,42.8,10
+05/11/23,IL,Waverly,-90,39.6,35
+05/11/23,IA,Pella,-92.9,41.4,14
+05/10/23,IL,Waverly,-90,39.6,29
+05/10/23,OK,Ponca City,-97.1,36.7,1
+05/10/23,IA,Pella,-92.9,41.4,9
+05/10/23,NC,Chapel Hill,-79.1,35.9,1
+05/09/23,IL,Chicago,-87.6,41.9,2
+05/09/23,IL,Peoria Heights,-89.6,40.7,21
+05/09/23,IA,Washington,-91.7,41.4,11
+05/09/23,NE,Omaha,-95.9,41.3,8
+05/07/23,MD,Lusby,-76.5,38.4,20
+05/07/23,FL,Jacksonville,-81.5,30.3,43
+05/05/23,MI,Grand Rapids,-85.7,43,10
+05/04/23,TX,Atlanta,-94.2,33.1,10
+05/03/23,TX,Montgomery,-95.8,30.4,6
+05/01/23,VA,Falls Church,-77.2,38.9,1
+05/01/23,TX,Driftwood,-98,30.1,1
+04/30/23,OK,Norman,-97.4,35.2,3
+04/29/23,TX,Driftwood,-98,30.1,2
+04/28/23,TX,Driftwood,-98,30.1,1
+04/27/23,CA,Garden Grove,-117.9,33.8,1
+04/26/23,OK,Ponca City,-97.1,36.7,2
+04/24/23,OK,Ponca City,-97.1,36.7,2
+04/24/23,OK,Oklahoma City,-97.4,35.3,6
+04/22/23,TN,Seymour,-83.7,35.9,1
+04/22/23,OK,Tulsa,-95.9,36.1,20
+04/21/23,TX,Montgomery,-95.8,30.4,32
+04/21/23,TX,Driftwood,-98,30.1,3
+04/20/23,NC,Kenly,-78.2,35.6,100
+04/20/23,TX,Driftwood,-98,30.1,6
+04/19/23,TX,Driftwood,-98,30.1,9
+04/18/23,TX,Driftwood,-98,30.1,4
+04/17/23,TX,San Antonio,-98.5,29.6,1
+04/17/23,OK,Oklahoma City,-97.5,35.5,10
+04/17/23,TN,Nashville,-86.7,36.2,16
+04/17/23,VA,Virginia Beach,-76.1,36.8,15
+04/17/23,TX,Driftwood,-98,30.1,3
+04/16/23,AR,Farmington,-94.2,36,14
+04/15/23,OK,Norman,-97.4,35.2,5
+04/15/23,TX,Driftwood,-98,30.1,3
+04/14/23,TN,Nashville,-86.9,36.1,7
+04/14/23,OK,Norman,-97.5,35.3,1
+04/14/23,NC,Wake Forest,-78.6,36,93
+04/13/23,AR,Farmington,-94.2,36,12
+04/13/23,OK,Norman,-97.5,35.2,4
+04/13/23,TX,Driftwood,-98,30.1,2
+04/12/23,AR,Farmington,-94.2,36,12
+04/12/23,OK,Tulsa,-95.9,36,59
+04/12/23,TX,Driftwood,-98,30.1,5
+04/12/23,CA,San Leandro,-122.2,37.7,3
+04/11/23,AR,Farmington,-94.2,36,12
+04/11/23,TX,Driftwood,-98,30.1,4
+04/10/23,AR,Farmington,-94.2,36,16
+04/10/23,AL,Decatur,-87,34.6,10
+04/10/23,TX,Montgomery,-95.8,30.4,80
+04/10/23,AL,Madison,-86.7,34.7,40
+04/10/23,AR,Little Rock,-92.3,34.7,40
+04/09/23,TX,Montgomery,-95.8,30.4,2
+04/09/23,SC,Salem,-82.9,34.8,20
+04/09/23,TX,Driftwood,-98,30.1,4
+04/08/23,FL,Brooksville,-82.4,28.6,1
+04/08/23,TX,Driftwood,-98,30.1,22
+04/07/23,OK,Bartlesville,-96,36.7,1
+04/07/23,TX,Pilot Point,-97,33.3,2
+04/06/23,GA,Gainesville,-83.8,34.4,1
+04/06/23,TN,Ooltewah,-85,35.2,9
+04/06/23,AR,Cotter,-92.5,36.3,12
+04/05/23,TX,Driftwood,-98,30.1,27
+04/04/23,GA,Gainesville,-83.8,34.4,50
+04/04/23,TX,Driftwood,-98,30.1,14
+04/04/23,GA,Cumming,-84.2,34.3,3
+04/03/23,FL,Naples,-81.7,26,10
+04/03/23,TX,Forney,-96.4,32.7,17
+04/03/23,TN,Campbellsville,-87.1,35.3,16
+04/03/23,TX,Driftwood,-98,30.1,13
+04/02/23,TX,Seguin,-98,29.5,60
+04/02/23,TX,Driftwood,-98,30.1,24
+04/01/23,TX,Austin,-97.8,30.3,30
+04/01/23,TX,Mesquite,-96.6,32.8,1
+04/01/23,TX,Austin,-97.8,30.5,43
+04/01/23,TX,Humble,-95.2,30,15
+04/01/23,TX,Driftwood,-98,30.1,51
+03/31/23,FL,Jacksonville,-81.5,30.3,12
+03/31/23,TX,Driftwood,-98,30.1,18
+03/30/23,TX,Driftwood,-98,30.1,12
+03/30/23,TX,Driftwood,-98,30.1,4
+03/30/23,TX,Driftwood,-98,30.1,5
+03/30/23,TX,Montgomery,-95.8,30.4,166
+03/29/23,TX,Driftwood,-98,30.1,24
+03/27/23,TX,Killeen,-97.8,31,6
+03/27/23,TX,Driftwood,-98,30.1,14
+03/26/23,FL,Gainesville,-82.4,29.7,2
+03/26/23,TN,Maryville,-84,35.7,1
+03/26/23,SC,Beaufort,-80.7,32.4,2
+03/26/23,TX,Dallas,-96.8,32.8,7
+03/26/23,TX,Driftwood,-98,30.1,16
+03/26/23,AR,Little Rock,-92.3,34.7,13
+03/25/23,GA,Savannah,-81.1,31.9,4
+03/25/23,TX,Driftwood,-98,30.1,8
+03/24/23,TX,Driftwood,-98,30.1,2
+03/23/23,TX,Glen Rose,-97.8,32.2,3
+03/23/23,TX,Driftwood,-98,30.1,21
+03/23/23,TX,Driftwood,-98,30.1,8
+03/23/23,TX,Driftwood,-98,30.1,1
+03/23/23,AL,Summerdale,-87.7,30.5,1
+03/22/23,TX,Seguin,-97.9,29.6,12
+03/22/23,TX,Driftwood,-98,30.1,7
+03/22/23,FL,Longwood,-81.3,28.7,267
+03/21/23,TX,Driftwood,-98,30.1,5
+03/20/23,FL,Destin,-86.4,30.4,7
+03/19/23,FL,Orlando,-81.5,28.5,6
+03/19/23,FL,Gainesville,-82.4,29.7,1
+03/19/23,FL,Jacksonville,-81.5,30.3,7
+03/19/23,TX,Montgomery,-95.8,30.4,45
+03/19/23,TX,Weimar,-96.8,29.7,3
+03/19/23,TX,Driftwood,-98,30.1,34
+03/18/23,TX,Driftwood,-98,30.1,19
+03/18/23,TX,Driftwood,-98,30.1,15
+03/16/23,TX,Driftwood,-98,30.1,22
+03/16/23,TX,Driftwood,-98,30.1,18
+03/15/23,TX,Driftwood,-98,30.1,26
+03/14/23,TX,Driftwood,-98,30.1,18
+03/13/23,TX,Mansfield,-97.1,32.6,7
+03/13/23,TX,Driftwood,-98,30.1,13
+03/12/23,TX,Driftwood,-98,30.1,106
+03/12/23,TX,Montgomery,-95.8,30.4,294
+03/12/23,TX,Driftwood,-98,30.1,16
+03/11/23,TX,Driftwood,-98,30.1,45
+03/10/23,TX,Driftwood,-98,30.1,34
+03/09/23,TX,Weimar,-96.8,29.7,3
+03/09/23,TX,Driftwood,-98,30.1,14
+02/04/23,FL,Gainesville,-82.4,29.7,1
+01/22/23,LA,Lacombe,-89.9,30.3,12
+01/10/23,FL,Vero Beach,-80.4,27.7,6

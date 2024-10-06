@@ -1,0 +1,283 @@
+Date,State,Town,Longitude,Latitude,Sighting
+12/31/21,AL,Dauphin Island,-88.1,30.3,1
+12/31/21,TX,New Ulm,-96.4,29.9,1
+12/30/21,TX,Orange,-93.7,30.1,1
+12/29/21,LA,Lafayette,-92,30.2,1
+12/28/21,SC,Charleston,-80,32.8,1
+12/25/21,FL,Osteen,-81.2,28.8,1
+12/25/21,TX,Houston,-95.6,29.7,1
+12/25/21,TX,Houston,-95.6,29.7,1
+12/19/21,TX,Sugar Land,-95.6,29.7,1
+12/18/21,FL,Jacksonville,-81.7,30.3,1
+12/18/21,FL,Jacksonville,-81.7,30.3,1
+12/18/21,FL,Jacksonville,-81.7,30.3,1
+12/18/21,FL,Jacksonville,-81.7,30.3,1
+12/18/21,FL,Tampa,-82.5,27.9,1
+12/18/21,FL,Jacksonville,-81.7,30.3,1
+12/16/21,FL,Orlando,-81.5,28.6,1
+12/16/21,TX,League City,-95.1,29.5,1
+12/16/21,FL,Brooksville,-82.5,28.5,1
+12/13/21,TX,Fulton,-97,28.1,1
+12/11/21,LA,Kenner,-90.2,30,1
+12/11/21,TX,Rockport,-97.1,28,1
+12/10/21,FL,Palm Beach Gardens,-80.1,26.8,1
+12/09/21,LA,New Orleans,-90.1,30,1
+12/09/21,LA,Lafayette,-92,30.3,1
+12/09/21,TX,Spring,-95.4,30.1,1
+12/09/21,FL,Fleming Island,-81.7,30.1,1
+12/08/21,TX,New Braunfels,-98,29.7,1
+12/08/21,FL,Wellington,-80.3,26.6,1
+12/08/21,CA,San Diego,-117.2,32.8,1
+12/08/21,FL,Saint Petersburg,-82.7,27.7,1
+12/08/21,FL,Tampa,-82.5,28.1,1
+12/05/21,TX,Magnolia,-95.7,30.2,1
+12/05/21,FL,Groveland,-81.9,28.6,1
+12/03/21,TX,Bedford,-97.1,32.8,1
+12/03/21,TX,Tomball,-95.6,30.1,1
+12/02/21,FL,Pensacola,-87.4,30.3,1
+11/30/21,FL,Cape Coral,-82,26.7,1
+11/28/21,FL,Fort Lauderdale,-80.1,26.2,1
+11/27/21,TX,Gause,-96.7,30.7,1
+11/27/21,TX,Adkins,-98.2,29.4,1
+11/26/21,TX,Rockport,-97,28,1
+11/24/21,GA,Richmond Hill,-81.4,31.9,1
+11/24/21,TX,Pearland,-95.3,29.6,1
+11/24/21,FL,Saint Augustine,-81.5,30,1
+11/23/21,FL,Hollywood,-80.1,26,1
+11/23/21,LA,Metairie,-90.1,30,1
+11/23/21,TX,Corpus Christi,-97.4,27.7,1
+11/23/21,TX,San Antonio,-98.3,29.6,1
+11/23/21,LA,Metairie,-90.1,30,1
+11/22/21,CA,Pismo Beach,-120.7,35.2,1
+11/22/21,TX,San Antonio,-98.3,29.6,1
+11/22/21,FL,Melbourne,-80.6,28.1,1
+11/21/21,TX,Dallas,-96.8,32.9,1
+11/21/21,FL,Zephyrhills,-82.2,28.2,1
+11/21/21,FL,Fort Myers,-81.8,26.6,1
+11/21/21,SC,Mc Cormick,-82.3,33.9,1
+11/21/21,FL,New Port Richey,-82.7,28.3,1
+11/21/21,FL,Cape Coral,-81.9,26.6,1
+11/20/21,FL,Windermere,-81.6,28.5,1
+11/19/21,GA,Savannah,-81.1,32.1,1
+11/15/21,CA,Pismo Beach,-120.6,35.1,1
+11/15/21,NC,Durham,-78.9,36.1,
+11/10/21,TX,Richmond,-95.8,29.7,1
+11/04/21,CA,Castro Valley,-122.1,37.7,1
+10/28/21,PA,Towanda,-76.5,41.8,1
+10/26/21,TX,Pearland,-95.2,29.6,1
+10/24/21,NM,Tatum,-103.4,33.3,1
+10/23/21,TX,San Antonio,-98.5,29.6,1
+10/23/21,OH,Cincinnati,-84.4,39.1,1
+10/22/21,TX,Midlothian,-97,32.5,1
+10/21/21,TN,Thompsons Station,-86.9,35.8,1
+10/19/21,MD,Berlin,-75.1,38.2,1
+10/19/21,MI,Gulliver,-86.1,46.1,1
+10/18/21,TX,Marble Falls,-98.2,30.5,1
+10/18/21,TN,Chattanooga,-85.3,35,1
+10/18/21,IL,Waverly,-90,39.6,1
+10/18/21,IL,Waverly,-90,39.6,1
+10/18/21,IL,Waverly,-90,39.6,1
+10/18/21,IL,Waverly,-90,39.6,1
+10/18/21,IL,Waverly,-90,39.6,1
+10/18/21,IL,Waverly,-90,39.6,1
+10/18/21,IL,Waverly,-90,39.6,1
+10/17/21,MI,Gulliver,-86.1,46.1,1
+10/17/21,LA,Lafayette,-92.1,30.1,1
+10/16/21,IL,Ivesdale,-88.5,39.9,1
+10/16/21,IN,Bloomington,-86.5,39.2,1
+10/15/21,TN,Hixson,-85.3,35.2,1
+10/13/21,IL,Ivesdale,-88.5,39.9,1
+10/13/21,MS,Iuka,-88.2,34.8,1
+10/10/21,IL,Waverly,-90,39.6,1
+10/10/21,IL,Waverly,-90,39.6,1
+10/10/21,IL,Waverly,-90,39.6,1
+10/10/21,IL,Waverly,-90,39.6,1
+10/10/21,IL,Waverly,-90,39.6,1
+10/10/21,IL,Waverly,-90,39.6,1
+10/10/21,IL,Waverly,-90,39.6,1
+10/10/21,IL,Waverly,-90,39.6,1
+10/06/21,SC,Mount Pleasant,-79.8,32.8,1
+10/06/21,CA,Pismo Beach,-120.7,35.2,1
+10/06/21,TX,Mesquite,-96.6,32.8,1
+10/05/21,OH,East Rochester,-81,40.7,1
+10/05/21,IL,Farmer City,-88.6,40.3,1
+10/03/21,IL,Waverly,-90,39.6,1
+10/03/21,IL,Waverly,-90,39.6,1
+10/03/21,IL,Waverly,-90,39.6,1
+10/03/21,IL,Waverly,-90,39.6,1
+10/03/21,IL,Waverly,-90,39.6,1
+10/03/21,IL,Waverly,-90,39.6,1
+10/03/21,IL,Waverly,-90,39.6,1
+10/03/21,IL,Waverly,-90,39.6,1
+10/03/21,IL,Waverly,-90,39.6,1
+09/30/21,CA,Pismo Beach,-120.7,35.2,1
+09/27/21,OH,Cincinnati,-84.4,39.1,1
+09/26/21,MO,Saint Louis,-90.3,38.6,1
+09/25/21,IL,Waverly,-90,39.6,1
+09/25/21,IL,Waverly,-90,39.6,1
+09/25/21,IL,Waverly,-90,39.6,1
+09/25/21,IL,Waverly,-90,39.6,1
+09/25/21,IL,Waverly,-90,39.6,1
+09/25/21,IL,Waverly,-90,39.6,1
+09/25/21,IL,Waverly,-90,39.6,1
+09/25/21,IL,Waverly,-90,39.6,1
+09/25/21,IL,Waverly,-90,39.6,1
+09/25/21,OH,Gratis,-84.5,39.6,1
+09/24/21,VA,Salem,-80.1,37.3,1
+09/24/21,KS,Lawrence,-95.3,39,1
+09/24/21,OH,Mc Comb,-83.8,41.1,1
+09/24/21,TX,Dublin,-98.3,32.1,1
+09/23/21,MO,Saint Louis,-90.4,38.7,1
+09/22/21,IL,Farmer City,-88.6,40.3,1
+09/22/21,TX,Dublin,-98.4,32.1,1
+09/22/21,NY,Farmingville,-73.1,40.8,1
+09/22/21,NY,Lake Grove,-73.1,40.8,1
+09/22/21,NY,Ronkonkoma,-73.1,40.8,1
+09/21/21,CA,San Leandro,-122.2,37.7,1
+09/21/21,MA,Oxford,-71.9,42.1,1
+09/21/21,CO,Longmont,-105.1,40.1,1
+09/20/21,WI,Milwaukee,-88,43,1
+09/20/21,IN,Nashville,-86.2,39.2,1
+09/19/21,WV,Davis,-79.4,39.1,1
+09/18/21,IL,Waverly,-90,39.6,1
+09/18/21,IL,Waverly,-90,39.6,1
+09/18/21,IL,Waverly,-90,39.6,1
+09/18/21,IL,Waverly,-90,39.6,1
+09/18/21,IL,Waverly,-90,39.6,1
+09/18/21,IL,Waverly,-90,39.6,1
+09/18/21,IL,Waverly,-90,39.6,1
+09/18/21,IL,Waverly,-90,39.6,1
+09/18/21,IL,Waverly,-90,39.6,1
+09/18/21,IL,Waverly,-90,39.6,1
+09/18/21,IL,Waverly,-90,39.6,1
+09/17/21,NJ,Keyport,-74.2,40.4,1
+09/17/21,MD,Annapolis,-76.5,38.9,1
+09/17/21,TX,Dublin,-98.4,32.1,1
+09/17/21,MI,Kingsley,-85.6,44.6,1
+09/16/21,TX,Bryan,-96.3,30.8,1
+09/16/21,ME,Farmingdale,-69.8,44.3,1
+09/16/21,ME,Farmingdale,-69.8,44.3,1
+09/16/21,FL,Sebring,-81.5,27.5,1
+09/15/21,PA,Fairfield,-77.4,39.8,1
+09/15/21,PA,Fairfield,-77.4,39.8,1
+09/15/21,PA,Fairfield,-77.4,39.8,1
+09/15/21,PA,Fairfield,-77.4,39.8,1
+09/15/21,PA,Fairfield,-77.4,39.8,1
+09/15/21,PA,Fairfield,-77.4,39.8,1
+09/15/21,PA,Fairfield,-77.4,39.8,1
+09/15/21,PA,Fairfield,-77.4,39.8,1
+09/15/21,PA,Fairfield,-77.4,39.8,1
+09/15/21,PA,Fairfield,-77.4,39.8,1
+09/15/21,NC,Youngsville,-78.5,36,1
+09/15/21,NY,Centereach,-73.1,40.9,1
+09/15/21,NY,Centereach,-73.1,40.9,1
+09/15/21,NY,Centereach,-73.1,40.9,1
+09/14/21,IL,Cortland,-88.7,41.9,1
+09/14/21,FL,Tampa,-82.5,28.1,1
+09/14/21,ME,Boothbay,-69.7,43.9,1
+09/13/21,TX,Pflugerville,-97.6,30.5,1
+09/13/21,NY,Bay Shore,-73.2,40.6,1
+09/13/21,NY,Brentwood,-73.3,40.8,1
+09/12/21,MA,Worcester,-71.9,42.3,1
+09/12/21,OK,Edmond,-97.5,35.7,1
+09/12/21,KS,Shawnee,-94.7,39,1
+09/12/21,IL,Dekalb,-88.7,41.9,1
+09/12/21,IL,Cortland,-88.7,41.9,1
+09/11/21,AL,Mobile,-88.1,30.7,1
+09/11/21,TX,Seymour,-99.2,33.7,1
+09/11/21,IL,Waverly,-90,39.6,1
+09/11/21,IL,Waverly,-90,39.6,1
+09/11/21,IL,Waverly,-90,39.6,1
+09/11/21,IL,Waverly,-90,39.6,1
+09/11/21,IL,Waverly,-90,39.6,1
+09/11/21,IL,Waverly,-90,39.6,1
+09/11/21,IL,Waverly,-90,39.6,1
+09/11/21,IL,Waverly,-90,39.6,1
+09/11/21,IL,Waverly,-90,39.6,1
+09/11/21,IL,Waverly,-90,39.6,1
+09/11/21,NY,Beaver Dams,-77,42.4,1
+09/11/21,OK,Oklahoma City,-97.5,35.6,1
+09/10/21,OK,Oklahoma City,-97.5,35.6,1
+09/10/21,PA,Wexford,-80.1,40.6,1
+09/10/21,PA,Wexford,-80.1,40.6,1
+09/10/21,PA,Wexford,-80.1,40.6,1
+09/10/21,PA,Wexford,-80.1,40.6,1
+09/10/21,PA,Marshall Twp,-80.1,40.6,1
+09/10/21,PA,Wexford,-80.1,40.6,1
+09/10/21,PA,Marshall Twp,-80.1,40.6,1
+09/10/21,PA,Wexford,-80.1,40.6,1
+09/10/21,PA,Marshall Twp,-80.1,40.6,1
+09/10/21,GA,Decatur,-84.3,33.7,1
+09/09/21,WI,Chilton,-88.2,44,1
+09/08/21,MI,Ferndale,-83.1,42.5,1
+09/07/21,AL,Hartselle,-86.9,34.4,1
+09/07/21,OH,Cleveland,-81.7,41.5,1
+09/07/21,WV,Vienna,-81.5,39.3,1
+09/06/21,NM,Magdalena,-107.1,34,1
+09/05/21,NY,Bolton Landing,-73.6,43.6,1
+09/05/21,ME,Brunswick,-69.9,43.9,1
+09/05/21,VA,Williamsburg,-76.7,37.3,1
+09/05/21,MA,Mattapoisett,-70.8,41.6,1
+09/05/21,VA,Lovettsville,-77.6,39.3,1
+09/05/21,IL,Waverly,-90,39.6,1
+09/05/21,IL,Waverly,-90,39.6,1
+09/05/21,IL,Waverly,-90,39.6,1
+09/04/21,TX,Corpus Christi,-97.4,27.8,1
+09/04/21,NJ,Mount Laurel,-74.9,40,1
+09/04/21,MA,Hingham,-70.9,42.3,1
+09/03/21,PA,Manheim,-76.4,40.2,1
+09/02/21,PA,Manheim,-76.4,40.2,1
+09/02/21,MO,Saint Louis,-90.2,38.6,1
+09/02/21,IL,Waverly,-90,39.6,1
+09/02/21,IL,Waverly,-90,39.6,1
+09/02/21,IL,Waverly,-90,39.6,1
+09/02/21,IL,Waverly,-90,39.6,1
+09/02/21,IL,Waverly,-90,39.6,1
+09/02/21,IL,Waverly,-90,39.6,1
+09/02/21,IL,Waverly,-90,39.6,1
+09/01/21,OH,Wooster,-82,40.8,1
+09/01/21,MD,Bishopville,-75.1,38.4,1
+09/01/21,TX,Wylie,-96.5,33,1
+09/01/21,IA,Indianola,-93.6,41.4,1
+09/01/21,VA,Suffolk,-76.6,36.8,1
+09/01/21,FL,Sebring,-81.5,27.5,1
+08/31/21,PA,Corry,-79.6,41.9,1
+08/30/21,MD,Bishopville,-75.1,38.4,1
+08/30/21,NY,Buffalo,-78.7,42.8,1
+08/30/21,KS,Kansas City,-94.8,39.1,1
+08/29/21,TX,Forney,-96.4,32.7,1
+08/29/21,GA,Rome,-85.2,34.3,1
+08/29/21,TX,Huntington,-94.5,31.2,1
+08/28/21,NY,Centereach,-73.1,40.9,1
+08/28/21,MO,House Springs,-90.7,38.4,1
+08/27/21,GA,Peachtree Corners,-84.2,34,1
+08/27/21,MD,Jarrettsville,-76.5,39.6,1
+08/27/21,TX,Buda,-97.8,30.1,1
+08/27/21,ON,Leamington,-82.6,42.1,1
+08/26/21,NJ,Marlton,-74.9,39.9,1
+08/26/21,SD,Rapid City,-103.3,44,1
+08/26/21,NH,Suncook,-71.5,43.1,1
+08/26/21,NH,Suncook,-71.4,43.1,1
+08/26/21,NY,Lake Placid,-74,44.3,1
+08/25/21,MD,Jarrettsville,-76.5,39.6,1
+08/24/21,OH,Cincinnati,-84.4,39.1,1
+08/24/21,MA,East Falmouth,-70.5,41.6,1
+08/24/21,MN,Richmond,-94.5,45.4,1
+08/24/21,NH,Glen,-71.2,44.1,1
+08/24/21,NH,Hooksett,-71.5,43.1,1
+08/21/21,MD,Jarrettsville,-76.5,39.6,1
+08/20/21,NM,Edgewood,-106.2,35,1
+08/17/21,IL,Lawrenceville,-87.8,38.8,1
+08/15/21,TX,Manchaca,-97.9,30.1,1
+08/12/21,MA,West Roxbury,-71.2,42.3,1
+08/12/21,IL,Mattoon,-88.4,39.5,1
+08/01/21,NS,Antigonish County,-62,45.7,1
+08/01/21,IL,Pekin,-89.6,40.6,1
+08/01/21,NJ,Montclair,-74.2,40.8,5
+08/01/21,ME,Brownfield,-70.9,43.9,26
+08/01/21,TX,Copperas Cove,-97.9,31.1,1
+08/01/21,MO,Springfield,-93.3,37.1,1
+08/01/21,TN,Nashville,-86.8,36.2,25
+08/01/21,TX,Houston,-95.1,29.6,1
+08/01/21,MD,Towson,-76.7,39.4,1
+08/01/21,FL,Vero Beach,-80.4,27.6,1
